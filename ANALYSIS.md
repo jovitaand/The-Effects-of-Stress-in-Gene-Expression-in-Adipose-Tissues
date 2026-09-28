@@ -65,7 +65,97 @@ as 0.056-0.19; scW models better, Q2 0.64-0.80). Read VIP scores in every
 panel as exploratory, not confirmatory, given this. Full tables:
 `results/significant_metabolites_by_comparison.xlsx`.
 
-## 5. Known open item
+## 5. Pathway / enrichment analysis: method
+
+`Corrected_Stress_Adipose_Metabolomics_Analysis.ipynb` adds a pathway
+analysis section. This records exactly what was and wasn't computed there,
+since the enrichment *numbers* were not produced by this notebook.
+
+### What actually computed the enrichment numbers
+
+Not this notebook. The workbook's `Pathway_analysis` sheet already existed
+before this restructuring, with output columns (`Total metabolites in the
+pathway`, `Hits`, `p-value`, `-log(p)`, `Adjused p-value (Holm)`, `Adjused
+p-value (FDR)`, `Pathway Impact`) that match MetaboAnalyst's pathway-analysis
+module signature almost exactly, including its characteristic "Adjused"
+typo. That's an inference from the column fingerprint, not a confirmed fact
+— there's no metadata in the workbook stating which software produced it.
+Standard MetaboAnalyst pathway analysis combines two independent
+calculations per pathway:
+
+* **Enrichment** (`Hits`, `p-value`, Holm/FDR-adjusted) — a hypergeometric
+  or Fisher's-exact over-representation test: of the metabolites in this
+  KEGG pathway, how many landed in the significant-hit list, versus what
+  you'd expect by chance from the background of all tested/annotated
+  compounds?
+* **Topology** (`Pathway Impact`) — a separate calculation, typically
+  relative-betweenness centrality of the hit metabolites' nodes within the
+  pathway's KEGG network diagram, normalised to 0-1. A metabolite at a
+  structurally central node contributes more impact than a peripheral one,
+  independent of its p-value.
+
+This ran against a KEGG pathway library (almost certainly the mouse `mmu`
+library, given the tissue) that this session has no access to and cannot
+verify.
+
+### What hit list fed it
+
+The pathway module needs a "significant metabolites" input list. That's the
+workbook's own `Significant_metabolites` sheet, whose header states its
+criterion explicitly: **"Adjusted p-values < 0.05 and/or VIP score > 1"** —
+an OR rule. That is **not** the same list as this notebook's significance
+rule (BH-FDR < 0.05 only, no VIP gate, Section 4 above). The pathway tables
+therefore characterise enrichment among a broader, VIP-inclusive candidate
+set, not among this notebook's FDR-confirmed hits.
+
+### What this notebook actually did (extraction and plotting only)
+
+1. **Located the block boundaries.** The sheet packs 3 pathway tables (one
+   per comparison) stacked vertically with label rows in between, no
+   structural separator: row 1 = `"1. scW: CMVS vs control"`, row 54 =
+   `"2. scW: CSDS vs control"`, row 107 = `"3. BAT: CMVS vs control"`, sheet
+   ends at row 160. `BAT: control vs CSDS` has no block at all.
+2. **Parsed each block** (`load_pathway_block` in the notebook): header row
+   is one row below the label, data runs from two rows below the label to
+   the row before the next label (or end of sheet for the last block), then
+   all non-name columns are coerced to numeric. Result: 51 pathway rows per
+   comparison (the full KEGG library tested, not just the ones that came
+   back significant).
+3. **Mapped table columns to plot encodings** (`plot_pathway_enrichment`),
+   one bubble per pathway:
+   * x = `Pathway Impact` (topology score, as given)
+   * y = `-log10(p-value)` (raw enrichment p, log-transformed for
+     legibility)
+   * marker size = `Hits`, clipped to a 20-400 pixel range
+   * marker colour = `Adjused p-value (FDR)` on a fixed 0-1 scale, so
+     colour is comparable across all three plots
+   * dashed line at raw p = 0.05 for visual reference
+   * the 5 smallest-p pathways get text labels, positioned with
+     `adjustText` so overlapping labels separate with leader lines instead
+     of rendering as mashed-together text (an earlier version of this plot
+     had two labels collide on the scW/CSDS panel; fixed by switching to
+     `adjustText`).
+4. **No recomputation, no KEGG lookup.** This notebook did not build a
+   compound-to-pathway membership map or run a hypergeometric test to
+   produce these three plots. Outbound access to KEGG's REST API
+   (`rest.kegg.jp`) was tested directly in this session, via both `curl`
+   and the platform's own web-fetch tool, and confirmed blocked by the
+   network egress proxy both times. Hand-writing an approximate
+   compound-to-pathway table from memory to work around that was
+   deliberately not done — a wrong pathway assignment would look exactly
+   like a right one on the page, which is the kind of silent, unverifiable
+   error this whole restructuring effort has been about removing.
+
+The notebook does include one from-scratch, generic
+`hypergeometric_ora(hit_ids, background_ids, pathway_to_members)` function,
+self-tested against `scipy.stats.hypergeom` directly, but it sits unused in
+this run because it has no `pathway_to_members` map to run against.
+Supplying one (a KEGG export, or enabling network access to KEGG) is what
+would let it run directly against this notebook's own FDR-significant hit
+lists instead of reporting the workbook's pre-existing, differently-defined
+results.
+
+## 6. Known open item
 
 The workbook also contains an already-normalised, already-FDR-corrected
 MetaboAnalyst run (`Annotation`/`All_Data` sheets: `P-value`,
