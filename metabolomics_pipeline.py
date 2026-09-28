@@ -808,13 +808,24 @@ def main():
 
     export_path = os.path.join(OUTPUT_DIR, "significant_metabolites_by_comparison.xlsx")
     with pd.ExcelWriter(export_path) as writer:
+        combined_significant.to_excel(writer, sheet_name="All_Significant_Metabolites", index=False)
         for (tissue, case), sig in zip(COMPARISONS, all_significant):
             sheet_name = f"{tissue}_{case}"[:31]
             sig.to_excel(writer, sheet_name=sheet_name, index=False)
         combined_results.to_excel(writer, sheet_name="all_metabolites_all_tests", index=False)
         validation_table.to_excel(writer, sheet_name="validation_summary", index=False)
 
+    # Standalone single-sheet export of just the columns asked for most often:
+    # metabolite identity, adjusted p-value, and log2 fold change, across all
+    # four comparisons in one flat table.
+    simple_export_path = os.path.join(OUTPUT_DIR, "all_significant_metabolites.xlsx")
+    simple_table = combined_significant[
+        ["Tissue", "Comparison", "Metabolite", "log2FC", "p_value", "adj_p_value", "VIP", "Direction"]
+    ].rename(columns={"adj_p_value": "p_adjusted_FDR", "p_value": "p_raw"})
+    simple_table.to_excel(simple_export_path, sheet_name="Significant_Metabolites", index=False)
+
     print(f"\nExported: {export_path}")
+    print(f"Exported: {simple_export_path}")
     print("\nValidation summary:")
     print(validation_table.to_string(index=False))
 
