@@ -19,7 +19,18 @@ import os
 import numpy as np
 import pandas as pd
 import matplotlib
-matplotlib.use("Agg")
+
+try:
+    get_ipython()  # noqa: F821 -- defined only inside IPython/Jupyter
+    _RUNNING_IN_NOTEBOOK = True
+except NameError:
+    _RUNNING_IN_NOTEBOOK = False
+
+# Headless PNG export for command-line runs (`python3 metabolomics_pipeline.py`).
+# Skipped inside a notebook so `%matplotlib inline` / figure display keeps working.
+if not _RUNNING_IN_NOTEBOOK:
+    matplotlib.use("Agg")
+
 import matplotlib.pyplot as plt
 from scipy import stats
 from statsmodels.stats.multitest import multipletests
