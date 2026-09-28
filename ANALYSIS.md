@@ -167,5 +167,46 @@ weight/extraction volume). The two pipelines agree qualitatively — scW
 CMVS has the strongest, most robust signal; BAT nets zero FDR-significant
 hits in both pipelines — which is a reassuring cross-check, but the
 weight-based normalisation should still be applied before this goes into
-a manuscript. See the chat write-up for the full comparison of the two
-p-value sources.
+a manuscript.
+
+**Update — the workbook's `P-value`/`Adj. P-value` test method is now
+confirmed**, not inferred: "Hypothesis test performed by a one-way ANOVA
+model with Tukey as post-hoc test. P-values are adjusted by the
+Benjamini-Hochberg algorithm." Recomputing one-way ANOVA + Tukey HSD
+(Control vs CMVS, Control vs CSDS contrasts) directly from this notebook's
+raw peak areas and correlating against the workbook's values:
+
+| Comparison | corr(Tukey p, workbook p) — raw scale | — log2 scale |
+|---|---|---|
+| scW/CMVS | 0.87 | 0.91 |
+| scW/CSDS | 0.83 | 0.91 |
+| BAT/CMVS | 0.77 | 0.83 |
+| BAT/CSDS | 0.82 | 0.87 |
+
+— better than assuming a plain two-group Welch t-test (~0.80-0.84
+correlation), confirming the test family, but still not an exact
+reproduction. The remaining gap is most likely the peak-area normalisation
+step (tissue weight / extraction volume, `Volume_normalization` sheet)
+that this notebook does not apply.
+
+This does **not** change the significance rule used elsewhere in this
+repository (Welch's t-test per planned pairwise contrast, Section 2-4
+above): the actual questions here are two specific planned contrasts, not
+a 3-group omnibus comparison, so Tukey HSD spends power on the
+never-asked CMVS-vs-CSDS contrast and assumes equal variance across all
+three groups — a stronger assumption than Welch needs at n = 5-6.
+ANOVA+Tukey is a legitimate, common alternative; it isn't obviously the
+better choice for this specific design. Knowing the exact method just
+resolves what these workbook columns represent.
+
+For reference, `results/workbook_anova_tukey_significant_metabolites.xlsx`
+holds what "significant" means under the workbook's method alone
+(`Adj. P-value < 0.05`, no VIP involved): 25 / 1 / 0 / 0 metabolites for
+scW-CMVS / scW-CSDS / BAT-CMVS / BAT-CSDS respectively — more conservative
+than this repository's own Welch-based list (75 / 2 / 3 / 0,
+`results/all_significant_metabolites.xlsx`), but agreeing on the same
+qualitative pattern: scW/CMVS carries by far the strongest signal, BAT has
+next to none. Neither list is what feeds the `Pathway_analysis` sheet
+(Section 5 above) — that one uses the workbook's own `Significant_metabolites`
+sheet, whose criterion is "Adj. P-value < 0.05 **or** VIP > 1", a third,
+looser rule.
