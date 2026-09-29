@@ -31,12 +31,15 @@ metabolomics_enrichment_analysis/
 │   ├── annotations/                identifier validation / annotation-quality tables
 │   └── summary_tables/             QC, FDR cross-check, comparison summary, final report
 ├── figures/
-│   ├── volcano/     raw-p and adjusted-p versions, PNG+SVG, x4 comparisons
+│   ├── volcano/     FDR-significant metabolites only, raw-p and adjusted-p versions, PNG+SVG
 │   ├── enrichment/  bar charts, pathways significant at p<0.05 only
 │   ├── pathway/     impact-vs-enrichment bubble plots, same significance filter
 │   ├── heatmaps/    FDR-significant metabolites, hierarchically clustered
-│   ├── PCA/         per-tissue, all 3 groups, log2+z-scored
-│   └── comparisons/ p-value distributions, MA plots, cross-comparison summary, UpSet-style overlap
+│   ├── PCA/         one plot per comparison (stress vs its own control), restricted to that
+│   │                comparison's FDR-significant metabolites; a 1-metabolite comparison gets a
+│   │                1-D strip plot instead of a degenerate 2-component PCA
+│   └── comparisons/ p-value distributions, MA plots (significant-only), cross-comparison
+│                     summary, UpSet-style overlap
 └── README.md
 ```
 
