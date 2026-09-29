@@ -1,0 +1,5 @@
+stage,n,pct_of_total
+Total rows in Annotation sheet,301,100.0
+Has a KEGG ID,54,17.9
+Has an HMDB ID (name-matched),158,52.5
+Usable for pathway mapping (KEGG present),54,17.9

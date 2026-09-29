@@ -1,0 +1,10 @@
+check,count,pct_of_301
+Metabolites with missing p-value (any comparison),0,0.0
+Metabolites with missing adjusted p-value (any comparison),0,0.0
+Metabolites with missing log2FC (any comparison),0,0.0
+"p-values outside [0,1] (any comparison)",0,0.0
+"Adjusted p-values outside [0,1] (any comparison)",0,0.0
+Duplicate metabolite names,0,0.0
+Duplicate KEGG IDs,4,1.3
+Metabolites with no KEGG ID (unmapped for pathway analysis),247,82.1
+Metabolites with neither KEGG nor HMDB ID,122,40.5

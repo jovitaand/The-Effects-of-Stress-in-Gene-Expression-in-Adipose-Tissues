@@ -1,0 +1,5 @@
+Comparison,Total tested,Raw p < 0.05,FDR < 0.05,Increased,Decreased,KEGG mapped (of tested),Pathway mapped (of FDR-significant)
+scW: control vs CMVS,301,82,25,25,0,54,4
+scW: control vs CSDS,301,65,1,1,0,54,1
+BAT: control vs CMVS,301,10,0,0,0,54,0
+BAT: control vs CSDS,301,10,0,0,0,54,0

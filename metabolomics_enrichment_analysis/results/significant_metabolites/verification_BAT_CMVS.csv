@@ -1,0 +1,302 @@
+Metabolite,KEGG_ID,Tissue,Comparison,log2FC,p_raw,p_adjusted_FDR,VIP,nominally_significant (p<0.05),FDR_significant (adj.p<0.05),direction,pathway,annotation_status
+Phe-Trp,,BAT,control vs CMVS,1.4,0.00162158629443487,0.296033051789813,0.798114,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetylglutamate,,BAT,control vs CMVS,1.36,0.00277172878646847,0.429467776870795,4.40439,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glucose 1-phosphate,,BAT,control vs CMVS,-1.21,0.00502923231674346,0.636566698437942,0.437919,True,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Methylaspartate,,BAT,control vs CMVS,1.31,0.00538311932239921,0.663661710747217,2.36963,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Aloin,,BAT,control vs CMVS,0.44,0.438056163271449,1.0,0.277237,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Thiamine Pyrophosphate,,BAT,control vs CMVS,0.41,0.999003720110039,1.0,0.664096,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phosphoadenosine phosphosulfate,,BAT,control vs CMVS,-0.54,0.996068924743035,1.0,2.1611,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"3',5'-ADP",,BAT,control vs CMVS,-0.01,0.999994637896801,1.0,0.0886099,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Adenosine 5'-diphosphate,,BAT,control vs CMVS,-0.09,0.996725002652276,1.0,0.451296,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Guanosine 5'-diphosphate (GDP),C00035,BAT,control vs CMVS,-1.3,0.0189451379537505,1.0,1.09566,True,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+UTP,,BAT,control vs CMVS,-0.76,0.800750102536965,1.0,0.535878,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Cytidine 5'-diphosphocholine,C00307,BAT,control vs CMVS,-0.21,0.988839105258187,1.0,0.531976,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+FAD,,BAT,control vs CMVS,0.36,0.735029063770789,1.0,2.33732,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+S-Adenosylmethionine,C00019,BAT,control vs CMVS,0.36,0.902835029820063,1.0,1.3465,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Palmitoylcarnitine,,BAT,control vs CMVS,-0.32,0.999919876619022,1.0,0.317793,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+UDP,,BAT,control vs CMVS,-0.24,0.99907077964832,1.0,0.240452,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Acetyl-CoA,,BAT,control vs CMVS,0.03,0.999999725486113,1.0,0.554681,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+CDP,,BAT,control vs CMVS,-0.27,0.999987547036521,1.0,0.253306,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Uridine 5'-diphosphate,,BAT,control vs CMVS,-0.07,0.999999999866392,1.0,0.0692174,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Asn-Glu-Ile,,BAT,control vs CMVS,0.17,0.999987345138507,1.0,0.141334,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Inosinic Acid,,BAT,control vs CMVS,0.52,0.820373174782174,1.0,0.555897,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Adenosine 5'-monophosphate,D02769,BAT,control vs CMVS,0.5,0.829304524974902,1.0,0.707768,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+3'-Adenosine monophosphate (3'-AMP),C01367,BAT,control vs CMVS,0.3,0.99055569194038,1.0,0.531719,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+NADPH,,BAT,control vs CMVS,0.04,0.999996594188665,1.0,0.146264,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+NADP,,BAT,control vs CMVS,0.09,0.999994315584565,1.0,0.180115,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Riboflavin (B2),,BAT,control vs CMVS,0.75,0.797450134125572,1.0,0.168295,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+S-Adenosylhomocysteine,,BAT,control vs CMVS,0.25,0.96573875827171,1.0,0.379671,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Dihydronicotinamide-adenine dinucleotide,,BAT,control vs CMVS,-1.22,0.53342760662982,1.0,1.11329,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Maltotetraose,,BAT,control vs CMVS,2.82,0.402313941443075,1.0,4.81643,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Beta-NAD,,BAT,control vs CMVS,-0.99,0.490760539854786,1.0,3.39009,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Nicotinamide Mononucleotide,C00455,BAT,control vs CMVS,-0.51,0.708495282281641,1.0,0.196633,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Melibiose,,BAT,control vs CMVS,-0.27,0.999980490778725,1.0,0.0932955,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3'-Dephosphocoenzyme A,C00882,BAT,control vs CMVS,0.98,0.959400020093009,1.0,1.15527,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Dephospho-Coenzyme-A,,BAT,control vs CMVS,0.72,0.36994754280348,1.0,1.23324,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+dGMP,,BAT,control vs CMVS,0.17,0.999510829126616,1.0,0.345287,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Histamine,,BAT,control vs CMVS,-1.18,0.526666831152762,1.0,2.21285,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Asparagine,C00152,BAT,control vs CMVS,-0.07,0.999973310997198,1.0,0.0917525,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Aspartate,,BAT,control vs CMVS,0.32,0.841631381330248,1.0,1.33726,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Proline,,BAT,control vs CMVS,0.21,0.969486017481032,1.0,5.30407,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Creatinine,,BAT,control vs CMVS,0.18,1.0,1.0,2.37658,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Malate,,BAT,control vs CMVS,-0.14,0.940959955717543,1.0,5.71316,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ureidopropionate,,BAT,control vs CMVS,0.63,0.695563404888967,1.0,0.337263,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ornithine,D08302,BAT,control vs CMVS,0.15,0.958640924689328,1.0,0.789639,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Choline,,BAT,control vs CMVS,-0.31,0.916482036551713,1.0,5.53196,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glycerate,,BAT,control vs CMVS,-0.2,0.972790820217299,1.0,0.242269,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Taurine,D00047,BAT,control vs CMVS,0.33,0.509980017574276,1.0,10.9606,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+5-(Hydroxymethyl)furfural,,BAT,control vs CMVS,1.71,0.737964208271746,1.0,1.94881,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Hypotaurine,C00519,BAT,control vs CMVS,-0.68,0.458417455781788,1.0,2.27753,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Uracil,,BAT,control vs CMVS,0.07,0.802180571371579,1.0,0.390806,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Cytosine,,BAT,control vs CMVS,0.83,0.230055541303856,1.0,2.71498,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Creatine,C00300,BAT,control vs CMVS,-0.04,0.984665158947698,1.0,15.2921,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+2-Methylpyrazine,,BAT,control vs CMVS,-0.86,0.878138959558226,1.0,1.2081,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Hydroxypyridine,,BAT,control vs CMVS,0.11,0.928866317489888,1.0,0.397638,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Succinate,,BAT,control vs CMVS,-0.09,0.999990648489679,1.0,2.20019,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+1-Aminocyclopropanecarboxylate,,BAT,control vs CMVS,0.01,0.979972859462508,1.0,0.732423,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3-Hydroxybutyrate,,BAT,control vs CMVS,-0.08,0.999998915270346,1.0,0.446601,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3-Methoxypropanoic acid,,BAT,control vs CMVS,-1.93,0.116617611540607,1.0,1.56678,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3-Hydroxyisobutyrate,,BAT,control vs CMVS,-0.76,0.948567084434249,1.0,0.850325,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Serine,,BAT,control vs CMVS,-0.29,0.999964085283546,1.0,0.698678,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Raffinose,,BAT,control vs CMVS,2.06,0.572476247904931,1.0,3.41947,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Trimethylamine N-Oxide,,BAT,control vs CMVS,1.17,0.0193847304934335,1.0,4.89182,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phosphoric acid,,BAT,control vs CMVS,0.17,0.989613144141566,1.0,2.39725,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ethyl acetoacetate,,BAT,control vs CMVS,0.29,0.560663585426631,1.0,2.77051,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Pyruvic acid,C00022,BAT,control vs CMVS,0.08,0.999399729622803,1.0,0.668191,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Isobutyrate,,BAT,control vs CMVS,0.12,0.999999871887187,1.0,0.205328,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Sarcosine,,BAT,control vs CMVS,0.03,0.999994946838881,1.0,1.92293,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Diethanolamine,,BAT,control vs CMVS,0.21,0.999796904292914,1.0,0.626282,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3-Sulfinoalanine,,BAT,control vs CMVS,-0.1,0.966832754178923,1.0,0.0562793,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Guanine,C00242,BAT,control vs CMVS,-0.1,0.999999999920574,1.0,0.316014,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+D-Histidine methyl ester,,BAT,control vs CMVS,0.24,0.994988835753365,1.0,0.616382,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glutathione Reduced,C02471,BAT,control vs CMVS,0.66,0.35315048819283,1.0,4.97342,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+"2,6-Dihydroxybenzoic acid",,BAT,control vs CMVS,0.49,0.572519755963593,1.0,0.5322,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glycerol 3-Phosphate,,BAT,control vs CMVS,1.09,0.776675010523014,1.0,5.05441,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+D-Histidine,,BAT,control vs CMVS,0.11,0.999974997130515,1.0,0.618415,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Orotate,,BAT,control vs CMVS,0.11,0.99985739384881,1.0,0.134712,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Hydroxyglutarate,,BAT,control vs CMVS,-0.17,0.988046976387375,1.0,0.216769,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Methionine,D00019,BAT,control vs CMVS,0.51,0.750146638812556,1.0,3.19138,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+2-Hydroxy-4-(Methylthio)Butanoate,,BAT,control vs CMVS,0.91,0.773451244269695,1.0,0.112438,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"3,4-Dimethylbenzoic acid",,BAT,control vs CMVS,0.28,0.9565942150941,1.0,1.01752,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Pyridoxal,,BAT,control vs CMVS,1.22,0.360963707904068,1.0,0.409104,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Xanthine,,BAT,control vs CMVS,0.52,0.645179961249188,1.0,1.88377,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetyl-1-aspartylglutamic acid,C12270,BAT,control vs CMVS,-0.37,0.999904871190056,1.0,0.148109,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Xylitol,,BAT,control vs CMVS,0.18,0.844849426077298,1.0,0.252953,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+O-Phosphoethanolamine,,BAT,control vs CMVS,-0.58,0.161547345489184,1.0,1.30355,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Methylimidazoleacetic acid,C05828,BAT,control vs CMVS,0.16,0.988374543589406,1.0,0.384381,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+2-Aminoadipic acid,,BAT,control vs CMVS,0.53,0.701768205420074,1.0,2.93251,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Acetamidobutanoate,,BAT,control vs CMVS,-0.1,0.970039919819997,1.0,0.239861,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Stachydrine,,BAT,control vs CMVS,0.06,0.962124080272484,1.0,3.01052,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Guanidinobutanoate,,BAT,control vs CMVS,-0.05,0.993607932842527,1.0,1.10819,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Oxoglutarate,C00026,BAT,control vs CMVS,-0.21,0.999165125180106,1.0,0.287768,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Spermidine,C00315,BAT,control vs CMVS,0.03,0.999999888956479,1.0,0.405096,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Adenine,,BAT,control vs CMVS,0.57,0.382543516356431,1.0,2.85997,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Oxindole,C12312,BAT,control vs CMVS,0.28,0.825520483445386,1.0,0.742479,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+2-Methylbenzoate,,BAT,control vs CMVS,-0.05,0.968433337022254,1.0,0.326662,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Toluic acid,C01454,BAT,control vs CMVS,-0.03,0.951596159178301,1.0,0.238293,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Salicylate,,BAT,control vs CMVS,0.55,0.891065751922016,1.0,0.387365,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+1-Methylnicotinamide,C02918,BAT,control vs CMVS,0.16,0.98845208787517,1.0,1.20917,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+6-Methylnicotinamide,,BAT,control vs CMVS,-0.09,0.999999993578797,1.0,1.31744,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Aminobenzoic acid,D02907,BAT,control vs CMVS,0.27,0.900058166502426,1.0,1.82353,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+trans-3-Indoleacrylic acid,,BAT,control vs CMVS,0.21,0.846590672359871,1.0,1.32797,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+1-Methylhistidine,C01152,BAT,control vs CMVS,-0.17,0.999922938560101,1.0,0.314002,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+N-Acetyl-L-leucine,,BAT,control vs CMVS,0.06,0.999996512739349,1.0,0.0564768,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+AMP,,BAT,control vs CMVS,0.32,0.971436638595272,1.0,5.48159,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+IMP,,BAT,control vs CMVS,1.18,0.516460803196996,1.0,2.92747,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetylasparagine,,BAT,control vs CMVS,0.3,0.997311323403977,1.0,0.0851642,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Suberate,,BAT,control vs CMVS,-0.02,0.982276013334504,1.0,0.372977,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Arginine,C02385,BAT,control vs CMVS,0.72,0.578276660139059,1.0,4.79758,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Guanidinoethyl sulfonate,C02419,BAT,control vs CMVS,0.46,0.812346091851634,1.0,0.292749,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Phosphoenolpyruvate,,BAT,control vs CMVS,-0.3,0.94477062384888,1.0,0.653588,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Urate,,BAT,control vs CMVS,0.22,0.993847808922965,1.0,0.541963,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Homogentisate,,BAT,control vs CMVS,0.17,0.999774124269366,1.0,0.0609891,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Cysteate,,BAT,control vs CMVS,-0.19,0.782396726139451,1.0,0.111932,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Dihydroxyacetone Phosphate,,BAT,control vs CMVS,0.39,0.927077378678096,1.0,0.875572,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Delta-Decalactone,,BAT,control vs CMVS,-0.13,0.975445308165836,1.0,0.0745568,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Methylglutamate,,BAT,control vs CMVS,0.07,0.999999999981574,1.0,0.0193084,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Carnitine,C00318,BAT,control vs CMVS,-0.14,0.982081602857326,1.0,14.8864,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+4-Hydroxyphenyllactate,,BAT,control vs CMVS,0.17,0.982134104286473,1.0,0.124034,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"1,5-Anhydrosorbitol",,BAT,control vs CMVS,0.16,0.920260227068889,1.0,0.374111,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phenylalanine,,BAT,control vs CMVS,0.33,0.501492992166617,1.0,3.51197,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phthalate,,BAT,control vs CMVS,0.13,0.978250399698837,1.0,0.394331,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3-(4-hydroxyphenyl)propanoate,,BAT,control vs CMVS,0.54,0.995608092607323,1.0,0.548845,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phenyllactate,,BAT,control vs CMVS,0.15,0.999999832298545,1.0,0.0593835,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Histidine,,BAT,control vs CMVS,0.1,0.981753266524117,1.0,1.89948,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Allantoin,,BAT,control vs CMVS,0.09,0.712075222595817,1.0,0.442831,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Methylbutyrylglycine,,BAT,control vs CMVS,0.28,0.911682340105209,1.0,0.148906,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+DELTA-VALEROBETAINE,,BAT,control vs CMVS,0.68,0.738754943931518,1.0,14.4906,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Oxoadipate,,BAT,control vs CMVS,-1.35,0.69881634791025,1.0,0.199672,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ala-Ala,,BAT,control vs CMVS,1.06,0.277979311196872,1.0,0.702058,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Myoinositol,,BAT,control vs CMVS,-0.34,0.0349189923228895,1.0,3.25255,True,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetyl-L-cysteine,,BAT,control vs CMVS,0.74,0.902908017083264,1.0,0.120671,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phenylacetylglycine,C05598,BAT,control vs CMVS,-0.36,0.98833848430666,1.0,0.149918,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Gluconate,,BAT,control vs CMVS,0.42,0.136440483570424,1.0,1.74125,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Galactonate,,BAT,control vs CMVS,-0.36,0.980941577221107,1.0,0.237625,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Tyrosine methyl ester,C03404,BAT,control vs CMVS,0.42,0.443516661413348,1.0,0.422559,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+D-(+)-Glucose,D00053,BAT,control vs CMVS,-0.87,0.428451094447542,1.0,0.388646,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Galactose,,BAT,control vs CMVS,0.06,0.999056853711444,1.0,0.0474159,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Mannose,,BAT,control vs CMVS,-0.64,0.985946372633385,1.0,0.12062,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Leu-Ala,,BAT,control vs CMVS,1.18,0.269694167932764,1.0,1.17538,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glycyl-L-leucine,,BAT,control vs CMVS,0.77,0.500382941133209,1.0,1.20571,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+10-Hydroxydecanoate,,BAT,control vs CMVS,0.65,0.762606381380807,1.0,0.716656,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Beta-Glycerophosphate,,BAT,control vs CMVS,1.01,0.795646856416197,1.0,0.419454,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetyl-methionine,,BAT,control vs CMVS,1.12,0.0399376340564591,1.0,0.749805,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Isocitrate,,BAT,control vs CMVS,-0.23,0.998958426977117,1.0,0.440646,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Citrate,,BAT,control vs CMVS,-0.99,0.0990503237399409,1.0,2.38173,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glucuronate,,BAT,control vs CMVS,0.12,0.999999999134268,1.0,0.0720118,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Methyl Galactoside,,BAT,control vs CMVS,0.24,0.999972064775007,1.0,0.0330542,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+GMP,,BAT,control vs CMVS,0.11,0.985881008522867,1.0,0.652176,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Galactitol,,BAT,control vs CMVS,-0.05,0.952005281665012,1.0,0.232728,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Pyridoxate,,BAT,control vs CMVS,1.12,0.969370545731053,1.0,0.147454,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phosphorylcholine,,BAT,control vs CMVS,0.37,0.883302933348382,1.0,2.54968,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3-Phosphoglycerate,,BAT,control vs CMVS,-1.14,0.327038420387952,1.0,1.8312,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Phosphoglycerate,,BAT,control vs CMVS,-0.16,0.994313052216802,1.0,0.355175,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Hydroxy-3-Methoxyphenylglycol,,BAT,control vs CMVS,0.04,0.999999849283479,1.0,0.0198865,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Pro-Ala,,BAT,control vs CMVS,0.74,0.152398720724291,1.0,0.793646,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-acetylaspartate,,BAT,control vs CMVS,0.03,0.992674938440262,1.0,0.881683,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Citrulline,D07706,BAT,control vs CMVS,0.13,0.98313990484701,1.0,1.4904,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Ascorbate,,BAT,control vs CMVS,0.26,0.438335757699909,1.0,2.68649,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"1,2,3-Propanetricarboxylate",,BAT,control vs CMVS,0.15,0.995440353779699,1.0,0.0685723,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Formyl-L-Methionine,,BAT,control vs CMVS,0.56,0.748777007232103,1.0,0.252454,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Guanidinosuccinate,,BAT,control vs CMVS,-0.54,0.646824752537141,1.0,0.0710512,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Hippurate,,BAT,control vs CMVS,2.35,0.685280657484237,1.0,0.425021,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Tyrosine,D00022,BAT,control vs CMVS,0.13,0.9682405526078,1.0,1.38571,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+D-Pantothenic acid,,BAT,control vs CMVS,-0.24,0.868385110567467,1.0,1.19796,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Propionylcarnitine,C03017,BAT,control vs CMVS,0.36,0.986232732654535,1.0,2.81454,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Thr-Thr,,BAT,control vs CMVS,1.91,0.0113394124135968,1.0,1.28111,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Gly-Phe,,BAT,control vs CMVS,0.68,0.368038823390803,1.0,0.746675,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Carnosine,,BAT,control vs CMVS,0.58,0.999729779499367,1.0,1.22926,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ala-His,,BAT,control vs CMVS,0.71,0.489699148925589,1.0,1.07965,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+His-Ser,,BAT,control vs CMVS,0.94,0.273281408601826,1.0,0.575621,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Riboflavin Phosphate,,BAT,control vs CMVS,0.36,0.943562488929083,1.0,0.447978,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetylphenylalanine,,BAT,control vs CMVS,0.31,0.976857076931256,1.0,0.0413516,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Galactarate,,BAT,control vs CMVS,0.3,0.99996240499606,1.0,0.166523,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"1,3,7-Trimethylurate",,BAT,control vs CMVS,-0.41,0.999279305195023,1.0,0.0128387,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Kynurenine,,BAT,control vs CMVS,0.04,0.992852733240501,1.0,0.0936479,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phosphocreatine,,BAT,control vs CMVS,-0.94,0.53602876576376,1.0,1.031,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ribose 5-phosphate,,BAT,control vs CMVS,0.72,0.13410327321989,1.0,2.07384,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Indoxyl Sulfate,,BAT,control vs CMVS,0.16,0.977835067955694,1.0,0.340155,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+ADP,,BAT,control vs CMVS,-0.18,0.998238585386767,1.0,0.591065,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Cinnamoylglycine-trans,,BAT,control vs CMVS,1.18,0.979201771618606,1.0,0.0947571,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Acetamido-2-Deoxy-D-Glucopyranose,,BAT,control vs CMVS,0.0,0.999999995774632,1.0,0.174454,False,False,unchanged,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetylgalactosamine,,BAT,control vs CMVS,0.08,0.831284235440221,1.0,0.252039,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Acetyl-L-carnitine,,BAT,control vs CMVS,0.55,0.988666522638173,1.0,1.63696,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ser-Thr,,BAT,control vs CMVS,0.54,0.613912967303206,1.0,0.296699,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+5-Methoxyindoleacetate,,BAT,control vs CMVS,-0.02,0.999746884763776,1.0,0.00279009,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Fucose,,BAT,control vs CMVS,1.01,0.906396554208573,1.0,0.526493,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+O-Phosphoserine,,BAT,control vs CMVS,-0.15,0.919580351672089,1.0,0.277318,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Indole-3-Pyruvate,,BAT,control vs CMVS,0.21,0.836342455300751,1.0,0.0854839,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Pantothenate,,BAT,control vs CMVS,-0.29,0.999900801622121,1.0,0.755173,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+O-Acetyl-L-carnitine,,BAT,control vs CMVS,0.18,0.999999999968335,1.0,4.92522,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Glutathione oxidized,,BAT,control vs CMVS,0.48,0.69069056217482,1.0,3.32315,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Tryptophan,,BAT,control vs CMVS,0.11,0.999303988099666,1.0,0.877648,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Val-Ser,,BAT,control vs CMVS,1.42,0.272901006689064,1.0,0.870102,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ile-Ala,,BAT,control vs CMVS,1.09,0.191627821429838,1.0,0.771645,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Sebacate,,BAT,control vs CMVS,0.06,0.998951770352292,1.0,0.0607564,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Galactose 1-phosphate,C00103,BAT,control vs CMVS,0.7,0.803944486572973,1.0,3.96673,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+N-Acetylglucosamine,,BAT,control vs CMVS,0.2,0.908285058270123,1.0,0.410682,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Hexanoylcarnitine,,BAT,control vs CMVS,-0.26,0.998460321629676,1.0,0.865824,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phe-Pro,,BAT,control vs CMVS,0.49,0.221153312817612,1.0,0.477457,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Deoxyguanosine,,BAT,control vs CMVS,-1.66,0.898160192196055,1.0,0.0521131,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Adenosine,,BAT,control vs CMVS,0.55,0.431905991188979,1.0,7.42476,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Inosine,,BAT,control vs CMVS,0.92,0.319576824528034,1.0,3.32845,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Argininosuccinate,C03406,BAT,control vs CMVS,-0.75,0.793112787627777,1.0,0.360969,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Val-Met,,BAT,control vs CMVS,1.25,0.174410520209794,1.0,0.399893,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Deoxyinosine,,BAT,control vs CMVS,-0.03,0.999999998931419,1.0,0.0200732,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+dGTP,C00286,BAT,control vs CMVS,-1.46,0.849070027184781,1.0,3.36008,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Phe-Ser,,BAT,control vs CMVS,1.1,0.285666068484278,1.0,0.651178,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Coenzyme A,,BAT,control vs CMVS,0.59,0.929754686374408,1.0,1.66137,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glycerophosphocholine,,BAT,control vs CMVS,-0.71,0.0595057841211627,1.0,13.7666,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ile-Gln,,BAT,control vs CMVS,0.76,0.475417205437091,1.0,1.45421,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glucose 6-Phosphate,,BAT,control vs CMVS,0.41,0.920095955510353,1.0,3.49135,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Dihydrobiopterin,,BAT,control vs CMVS,0.31,0.92949153693025,1.0,0.106255,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Fructose 6-Phosphate,,BAT,control vs CMVS,0.57,0.717081708276276,1.0,1.82001,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Lumichrome,,BAT,control vs CMVS,0.12,0.98206932962184,1.0,0.185488,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Cytidine,D07769,BAT,control vs CMVS,0.99,0.166354668760718,1.0,2.26073,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Uridine,,BAT,control vs CMVS,0.37,0.947712865829949,1.0,0.786137,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Pseudouridine,,BAT,control vs CMVS,-0.02,0.999952827217995,1.0,0.0571336,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Pro-Glu,,BAT,control vs CMVS,-0.05,0.999990262768165,1.0,0.0950344,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Leucylproline,,BAT,control vs CMVS,0.88,0.0531177554831804,1.0,2.01934,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Deoxyuridine,,BAT,control vs CMVS,-0.33,0.999981903165816,1.0,0.0281022,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Myristic Acid,,BAT,control vs CMVS,-0.03,0.999999026913571,1.0,1.38483,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ergothioneine,,BAT,control vs CMVS,-0.33,0.195175700277714,1.0,3.50273,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+D-Ribulose 5-phosphate,C00199,BAT,control vs CMVS,0.6,0.83453769180043,1.0,0.472624,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Prolylleucine,,BAT,control vs CMVS,0.02,0.997823537763851,1.0,1.68459,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Gly-Arg,,BAT,control vs CMVS,0.62,0.777270075025815,1.0,0.851927,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Leu-Thr,,BAT,control vs CMVS,1.03,0.295855736230675,1.0,0.722398,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Decanoylcarnitine,,BAT,control vs CMVS,-0.4,0.871378233089311,1.0,0.828958,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+UMP,,BAT,control vs CMVS,0.37,0.587789376355665,1.0,2.22982,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Trehalose,,BAT,control vs CMVS,1.58,0.521048904331721,1.0,0.991333,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+5'-Cytidylic acid,,BAT,control vs CMVS,-0.21,0.7550564391151,1.0,0.687337,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+CMP,,BAT,control vs CMVS,0.66,0.340794358766973,1.0,1.13042,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Glycolylneuraminate,,BAT,control vs CMVS,0.73,0.0968111949293972,1.0,1.25328,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+cAMP,,BAT,control vs CMVS,0.11,0.797691858120918,1.0,0.363613,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"(E)-8,9,10-trihydroxyoctadec-6-enoic acid",,BAT,control vs CMVS,0.41,0.950672472644861,1.0,0.238547,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Methylthioadenosine,C00170,BAT,control vs CMVS,0.28,0.995333323246211,1.0,0.235855,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+GDP-Mannose,C00096,BAT,control vs CMVS,-0.07,0.997748685831469,1.0,0.334937,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+UDP-N-Acetylgalactosamine,C00043,BAT,control vs CMVS,0.39,0.982909724128489,1.0,1.26734,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Arachidonic Acid,,BAT,control vs CMVS,-0.38,0.988963516288882,1.0,0.75409,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"2',3'-cCMP",,BAT,control vs CMVS,0.54,0.998266415635461,1.0,0.0531034,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Gamma-glutamylcysteinylglycine,,BAT,control vs CMVS,0.3,0.572959774620458,1.0,0.514522,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetylneuraminate,,BAT,control vs CMVS,0.02,0.998283813599013,1.0,0.162087,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+12(13)-DiHOME,,BAT,control vs CMVS,1.23,0.119579818359349,1.0,0.864304,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Xanthosine,,BAT,control vs CMVS,1.52,0.415408641619922,1.0,0.384587,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetyl-Glucosamine 1-Phosphate,,BAT,control vs CMVS,0.37,0.908282298056584,1.0,0.180612,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ophthalmate,,BAT,control vs CMVS,0.16,0.908775486199149,1.0,0.401776,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+UDP-Glucuronate,C00167,BAT,control vs CMVS,0.87,0.0569923383652922,1.0,1.83611,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Guanosine 5'-diphospho-ß-L-fucose,C00325,BAT,control vs CMVS,0.22,0.99673062132209,1.0,0.273604,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Phe-Gln,,BAT,control vs CMVS,1.3,0.0278131891548375,1.0,0.750676,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Gamma-Glutamylphenylalanine,,BAT,control vs CMVS,-0.49,0.418875918747887,1.0,0.232492,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+5-methyl-5' thioadenosine,,BAT,control vs CMVS,0.09,0.997501434346702,1.0,0.233794,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+16-Hydroxyhexadecanoic acid,C18218,BAT,control vs CMVS,0.51,0.773086357487003,1.0,0.876016,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+6-Phosphogluconate,,BAT,control vs CMVS,-0.32,0.999985904279036,1.0,0.356423,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glutaryl-L-carnitine,,BAT,control vs CMVS,1.04,0.542135251548351,1.0,1.14331,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+ADP-Ribose,,BAT,control vs CMVS,0.27,0.969843186806842,1.0,3.88593,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Linoleic acid,D01928,BAT,control vs CMVS,-0.16,0.999999997467087,1.0,1.90081,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Oleic acid,D02315,BAT,control vs CMVS,-0.37,0.999697943793495,1.0,2.34505,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+UDP-Glucose,,BAT,control vs CMVS,-0.35,0.959287863746195,1.0,0.357735,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Guanosine,,BAT,control vs CMVS,0.27,0.913076529195062,1.0,0.486677,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3-Methyl-2-Oxovalerate,,BAT,control vs CMVS,-0.39,0.694615322158139,1.0,0.683019,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Dihydrothymine,,BAT,control vs CMVS,0.64,0.835234578096114,1.0,0.547585,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Lysine,,BAT,control vs CMVS,0.59,0.841364636691065,1.0,2.56691,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetyl-L-alanine,,BAT,control vs CMVS,0.38,0.79728927137871,1.0,0.332086,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Hydroxyproline,,BAT,control vs CMVS,0.02,0.99999318831016,1.0,0.280817,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Pipecolate,C00408,BAT,control vs CMVS,-0.08,0.574011361571056,1.0,0.958804,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+L-Pipecolinic acid,,BAT,control vs CMVS,0.07,0.999986540323892,1.0,0.103556,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Ornithine,,BAT,control vs CMVS,-0.27,0.953625464503448,1.0,0.487517,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glutamine,,BAT,control vs CMVS,0.15,0.982843353473396,1.0,3.08499,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Imidazoleacetate,,BAT,control vs CMVS,0.32,0.985152964023937,1.0,0.135871,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glutamate,,BAT,control vs CMVS,0.16,0.217106529234978,1.0,8.75465,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+O-Acetyl-L-serine,,BAT,control vs CMVS,0.32,0.525399847278797,1.0,1.24408,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Pyroglutamic acid,,BAT,control vs CMVS,0.01,0.999022731013471,1.0,0.147619,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+5-Oxoproline,,BAT,control vs CMVS,0.42,0.589688288256119,1.0,0.362951,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Deoxycarnitine,,BAT,control vs CMVS,0.58,0.278819296539808,1.0,8.42614,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Homoserine,,BAT,control vs CMVS,0.41,0.933744130100999,1.0,1.09489,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Urocanate,,BAT,control vs CMVS,-0.04,0.996609166499198,1.0,0.500519,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Purine,,BAT,control vs CMVS,0.93,0.899318999266741,1.0,0.179564,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Anserine,,BAT,control vs CMVS,0.44,0.999999986364153,1.0,1.35068,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Niacinamide,,BAT,control vs CMVS,0.24,0.615227241083224,1.0,10.3483,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Nicotinamide,D00036,BAT,control vs CMVS,0.31,0.527148288923871,1.0,2.8857,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+5-Methylcytosine,,BAT,control vs CMVS,-0.55,0.956846400446088,1.0,0.30259,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+α-Methylhistamine,,BAT,control vs CMVS,0.06,0.985473774954692,1.0,0.796942,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetylglycine,,BAT,control vs CMVS,-0.06,0.999999991500738,1.0,0.0568059,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Betaine,,BAT,control vs CMVS,0.45,0.273828336678928,1.0,25.7803,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Methylmalonate,,BAT,control vs CMVS,0.44,0.612449881240313,1.0,1.05181,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Cinnamyl Alcohol,,BAT,control vs CMVS,0.0,1.0,1.0,0.896216,False,False,unchanged,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Threonine,C12317,BAT,control vs CMVS,0.22,0.754445545003858,1.0,2.41968,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Guanidinoacetate,,BAT,control vs CMVS,-0.21,0.64888143999041,1.0,1.46806,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Hypoxanthine,,BAT,control vs CMVS,0.44,0.947658943160474,1.0,2.01745,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-propylphenol,,BAT,control vs CMVS,0.03,0.999999928575772,1.0,1.5222,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Asiatate,,BAT,control vs CMVS,0.88,0.937070546224523,1.0,0.0560825,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+1-Palmitoyl-sn-glycero-3-Phosphocholine,,BAT,control vs CMVS,-0.2,0.535452532334985,1.0,5.38744,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Taurocholic acid,,BAT,control vs CMVS,0.76,0.992550256628831,1.0,0.235342,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+ATP,,BAT,control vs CMVS,-1.01,0.88302144336798,1.0,1.20556,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2'-Deoxyguanosine 5'-triphosphate (dGTP),C00286,BAT,control vs CMVS,-0.69,0.925026818385498,1.0,1.00639,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Guanosine Triphosphate,,BAT,control vs CMVS,-0.87,0.39893905401379,1.0,0.256732,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Cyclic ADP-ribose,C13050,BAT,control vs CMVS,0.99,0.122966082460235,1.0,0.216098,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Adenosine diphosphate ribose,,BAT,control vs CMVS,-0.56,0.99999744075045,1.0,0.280807,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+UDP-Galactose,,BAT,control vs CMVS,0.34,0.999831071674388,1.0,0.0743757,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"(3,9-Diacetyloxy-12-hydroxy-2,6,6,13-tetramethyl-8-tetracyclo[11.2.1.01,10.02,7]hexadecanyl) benzoate",,BAT,control vs CMVS,0.68,0.56751294900293,1.0,0.962071,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+ADP-Glucose,,BAT,control vs CMVS,1.62,0.161957499112368,1.0,0.807606,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+UDP-N-acetylglucosamine,C00043,BAT,control vs CMVS,0.33,0.999999179599877,1.0,0.0916286,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Lactic Acid,D02111,BAT,control vs CMVS,0.14,0.998155687475107,1.0,5.97009,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
