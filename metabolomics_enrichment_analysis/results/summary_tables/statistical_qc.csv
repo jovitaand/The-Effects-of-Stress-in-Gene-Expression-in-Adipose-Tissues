@@ -1,0 +1,13 @@
+column,check,n_missing,n_out_of_range,n_exactly_zero,n_extremely_small (<1e-10)
+P-value: (BAT_Aq_CMVS) / (BAT_Aq_control),p-value,0,0,0,0.0
+P-value: (BAT_Aq_CSDS) / (BAT_Aq_control),p-value,0,0,0,0.0
+P-value: (scW_Aq_CMVS) / (scW_Aq_control),p-value,0,0,0,0.0
+P-value: (scW_Aq_CSDS) / (scW_Aq_control),p-value,0,0,0,0.0
+Adj. P-value: (BAT_Aq_CMVS) / (BAT_Aq_control),adjusted p-value,0,0,0,0.0
+Adj. P-value: (BAT_Aq_CSDS) / (BAT_Aq_control),adjusted p-value,0,0,0,0.0
+Adj. P-value: (scW_Aq_CMVS) / (scW_Aq_control),adjusted p-value,0,0,0,0.0
+Adj. P-value: (scW_Aq_CSDS) / (scW_Aq_control),adjusted p-value,0,0,0,0.0
+Log2 Fold Change: (BAT_Aq_CMVS) / (BAT_Aq_control),log2FC,0,0,2,
+Log2 Fold Change: (BAT_Aq_CSDS) / (BAT_Aq_control),log2FC,0,0,4,
+Log2 Fold Change: (scW_Aq_CMVS) / (scW_Aq_control),log2FC,0,0,1,
+Log2 Fold Change: (scW_Aq_CSDS) / (scW_Aq_control),log2FC,0,0,2,

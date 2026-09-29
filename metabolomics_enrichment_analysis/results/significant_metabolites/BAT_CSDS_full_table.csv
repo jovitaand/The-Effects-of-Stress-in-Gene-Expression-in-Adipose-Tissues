@@ -1,0 +1,302 @@
+Tissue,Comparison,Metabolite,KEGG_ID,log2FC,p_raw,p_adjusted_FDR,VIP,confidence,direction,nominally_significant (p<0.05),FDR_significant (adj.p<0.05),FDR_significant_increased,FDR_significant_decreased
+BAT,control vs CSDS,Glucose 1-phosphate,,-1.32,0.000481137928575626,0.142732573624013,0.536027,Medium,decreased,True,False,False,False
+BAT,control vs CSDS,Phe-Trp,,1.7,0.0010390947264084,0.227969788319674,0.834132,Medium,increased,True,False,False,False
+BAT,control vs CSDS,D-(+)-Glucose,D00053,-1.71,0.00225247075703738,0.403447262199168,0.753773,High,decreased,True,False,False,False
+BAT,control vs CSDS,Guanosine 5'-diphosphate (GDP),C00035,-1.39,0.00586937794037756,0.759799501220698,1.05644,Medium,decreased,True,False,False,False
+BAT,control vs CSDS,Aloin,,-0.12,0.999962511082497,1.0,0.0643784,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Thiamine Pyrophosphate,,0.0,0.999941062730471,1.0,0.33966,Medium,unchanged,False,False,False,False
+BAT,control vs CSDS,Phosphoadenosine phosphosulfate,,-0.16,0.999501707384916,1.0,1.98073,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,"3',5'-ADP",,0.56,0.926206663690155,1.0,0.658708,High,increased,False,False,False,False
+BAT,control vs CSDS,Adenosine 5'-diphosphate,,0.92,0.78530844231595,1.0,0.543597,Medium,increased,False,False,False,False
+BAT,control vs CSDS,UTP,,-1.23,0.28369811240872,1.0,1.26634,High,decreased,False,False,False,False
+BAT,control vs CSDS,Cytidine 5'-diphosphocholine,C00307,-0.52,0.714473248495629,1.0,1.25046,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,FAD,,0.42,0.91627583998099,1.0,1.41529,High,increased,False,False,False,False
+BAT,control vs CSDS,S-Adenosylmethionine,C00019,0.08,0.976964187297745,1.0,0.8046,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Palmitoylcarnitine,,-0.71,0.77937078319438,1.0,0.414775,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,UDP,,-0.06,0.993594487072034,1.0,0.585542,High,decreased,False,False,False,False
+BAT,control vs CSDS,Acetyl-CoA,,0.29,0.999944809483644,1.0,0.184902,Medium,increased,False,False,False,False
+BAT,control vs CSDS,CDP,,-1.06,0.821206727373278,1.0,0.251476,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Uridine 5'-diphosphate,,0.08,0.824000839142398,1.0,0.301842,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Asn-Glu-Ile,,-0.22,0.999893980026538,1.0,0.0697961,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Inosinic Acid,,0.35,0.873120905854093,1.0,0.732666,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Adenosine 5'-monophosphate,D02769,0.41,0.964716935646543,1.0,0.398429,Medium,increased,False,False,False,False
+BAT,control vs CSDS,3'-Adenosine monophosphate (3'-AMP),C01367,-0.11,0.921699478265423,1.0,0.383119,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,NADPH,,0.88,0.883629227738891,1.0,0.30765,Medium,increased,False,False,False,False
+BAT,control vs CSDS,NADP,,0.65,0.920227275377547,1.0,0.826305,High,increased,False,False,False,False
+BAT,control vs CSDS,Riboflavin (B2),,0.51,0.99999706189304,1.0,0.0930679,High,increased,False,False,False,False
+BAT,control vs CSDS,S-Adenosylhomocysteine,,-0.13,0.999992834457639,1.0,0.0835455,High,decreased,False,False,False,False
+BAT,control vs CSDS,Dihydronicotinamide-adenine dinucleotide,,-0.96,0.476254102428371,1.0,1.24031,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Maltotetraose,,2.44,0.507806287474582,1.0,3.16978,High,increased,False,False,False,False
+BAT,control vs CSDS,Beta-NAD,,-0.23,0.722887876671809,1.0,3.40522,High,decreased,False,False,False,False
+BAT,control vs CSDS,Nicotinamide Mononucleotide,C00455,-0.14,0.999415994930197,1.0,0.204956,High,decreased,False,False,False,False
+BAT,control vs CSDS,Melibiose,,-0.35,0.922110699730311,1.0,0.149251,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,3'-Dephosphocoenzyme A,C00882,0.5,0.914852156173573,1.0,0.873126,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Dephospho-Coenzyme-A,,0.53,0.837836483744439,1.0,0.677574,Medium,increased,False,False,False,False
+BAT,control vs CSDS,dGMP,,0.09,0.985568057805383,1.0,0.305664,High,increased,False,False,False,False
+BAT,control vs CSDS,Histamine,,-0.79,0.911274110906678,1.0,1.9251,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Asparagine,C00152,-0.24,0.842501703776423,1.0,0.317875,High,decreased,False,False,False,False
+BAT,control vs CSDS,Aspartate,,-0.14,0.999999995486664,1.0,0.276455,High,decreased,False,False,False,False
+BAT,control vs CSDS,L-Proline,,0.05,0.998636799822449,1.0,4.19316,High,increased,False,False,False,False
+BAT,control vs CSDS,Creatinine,,-0.16,0.75648851621721,1.0,4.63048,High,decreased,False,False,False,False
+BAT,control vs CSDS,Malate,,-0.47,0.880061014335461,1.0,7.47392,High,decreased,False,False,False,False
+BAT,control vs CSDS,Ureidopropionate,,0.74,0.869179163201635,1.0,0.165316,High,increased,False,False,False,False
+BAT,control vs CSDS,Ornithine,D08302,0.08,0.999314993439997,1.0,0.839759,High,increased,False,False,False,False
+BAT,control vs CSDS,Choline,,-0.11,0.999931590330368,1.0,2.93544,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Glycerate,,-0.12,0.863317093793547,1.0,0.421373,High,decreased,False,False,False,False
+BAT,control vs CSDS,Taurine,D00047,0.11,0.997545223072728,1.0,4.91961,High,increased,False,False,False,False
+BAT,control vs CSDS,5-(Hydroxymethyl)furfural,,0.5,0.999631285077704,1.0,0.461186,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Hypotaurine,C00519,-0.77,0.868384459175553,1.0,2.99274,High,decreased,False,False,False,False
+BAT,control vs CSDS,Uracil,,-0.14,0.695841246943422,1.0,0.556376,High,decreased,False,False,False,False
+BAT,control vs CSDS,Cytosine,,1.03,0.530351086710424,1.0,2.12483,High,increased,False,False,False,False
+BAT,control vs CSDS,Creatine,C00300,-0.19,0.710295881964814,1.0,20.3614,High,decreased,False,False,False,False
+BAT,control vs CSDS,2-Methylpyrazine,,-0.78,0.982781462572739,1.0,0.234616,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,2-Hydroxypyridine,,0.09,0.99980829328045,1.0,0.28238,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Succinate,,0.37,0.999047170113327,1.0,4.41617,High,increased,False,False,False,False
+BAT,control vs CSDS,1-Aminocyclopropanecarboxylate,,-0.13,0.999967279331368,1.0,0.340973,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,3-Hydroxybutyrate,,-0.44,0.927707146097475,1.0,1.20144,High,decreased,False,False,False,False
+BAT,control vs CSDS,3-Methoxypropanoic acid,,-1.97,0.091806279294446,1.0,1.73008,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,3-Hydroxyisobutyrate,,-0.92,0.93223097415321,1.0,1.19978,High,decreased,False,False,False,False
+BAT,control vs CSDS,L-Serine,,0.06,0.912025827961663,1.0,0.739991,High,increased,False,False,False,False
+BAT,control vs CSDS,Raffinose,,1.85,0.636403353549767,1.0,2.50469,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Trimethylamine N-Oxide,,0.89,0.105345223134489,1.0,4.40258,High,increased,False,False,False,False
+BAT,control vs CSDS,Phosphoric acid,,-0.02,0.999312034459275,1.0,1.20589,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Ethyl acetoacetate,,0.23,0.91112801482054,1.0,1.40999,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Pyruvic acid,C00022,-0.18,0.994757909343217,1.0,1.62033,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Isobutyrate,,0.27,0.999999999820841,1.0,0.212762,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Sarcosine,,-0.12,0.957413044978304,1.0,3.13907,High,decreased,False,False,False,False
+BAT,control vs CSDS,Diethanolamine,,0.14,0.999989452447297,1.0,0.542627,Medium,increased,False,False,False,False
+BAT,control vs CSDS,3-Sulfinoalanine,,-0.34,0.878809666781257,1.0,0.100045,High,decreased,False,False,False,False
+BAT,control vs CSDS,Guanine,C00242,0.12,0.999967924517541,1.0,0.51642,High,increased,False,False,False,False
+BAT,control vs CSDS,D-Histidine methyl ester,,0.24,0.993948286509966,1.0,0.385238,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Glutathione Reduced,C02471,0.7,0.293003248115144,1.0,6.52451,High,increased,False,False,False,False
+BAT,control vs CSDS,"2,6-Dihydroxybenzoic acid",,0.33,0.98898316296691,1.0,0.270219,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Glycerol 3-Phosphate,,1.68,0.487587893974818,1.0,8.13697,High,increased,False,False,False,False
+BAT,control vs CSDS,D-Histidine,,0.11,0.999996475964813,1.0,0.934477,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Orotate,,0.78,0.982952329752304,1.0,0.194285,High,increased,False,False,False,False
+BAT,control vs CSDS,2-Hydroxyglutarate,,0.12,0.740466667910473,1.0,1.26626,High,increased,False,False,False,False
+BAT,control vs CSDS,Methionine,D00019,0.46,0.992959842887505,1.0,1.61067,High,increased,False,False,False,False
+BAT,control vs CSDS,2-Hydroxy-4-(Methylthio)Butanoate,,0.02,0.999988160402975,1.0,0.0252493,Medium,increased,False,False,False,False
+BAT,control vs CSDS,"3,4-Dimethylbenzoic acid",,0.29,0.944456890798979,1.0,1.15004,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Pyridoxal,,0.61,0.930678587189049,1.0,0.120326,High,increased,False,False,False,False
+BAT,control vs CSDS,Xanthine,,0.52,0.845211924383054,1.0,1.29144,High,increased,False,False,False,False
+BAT,control vs CSDS,N-Acetyl-1-aspartylglutamic acid,C12270,-0.06,0.974274671961925,1.0,0.108128,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Xylitol,,0.48,0.997261372963225,1.0,0.116607,High,increased,False,False,False,False
+BAT,control vs CSDS,O-Phosphoethanolamine,,-0.72,0.0684820876180378,1.0,1.66985,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Methylimidazoleacetic acid,C05828,0.1,0.997916886086307,1.0,0.176201,Medium,increased,False,False,False,False
+BAT,control vs CSDS,2-Aminoadipic acid,,0.06,0.995337582468031,1.0,1.45959,High,increased,False,False,False,False
+BAT,control vs CSDS,4-Acetamidobutanoate,,-0.7,0.563152485142036,1.0,0.326941,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Stachydrine,,0.21,0.987651199830478,1.0,2.57637,High,increased,False,False,False,False
+BAT,control vs CSDS,4-Guanidinobutanoate,,-0.39,0.588176930567959,1.0,1.22424,High,decreased,False,False,False,False
+BAT,control vs CSDS,2-Oxoglutarate,C00026,0.06,0.995362245023498,1.0,0.633293,High,increased,False,False,False,False
+BAT,control vs CSDS,Spermidine,C00315,-0.03,0.999997310357032,1.0,0.313352,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Adenine,,0.35,0.982631130772502,1.0,1.12571,High,increased,False,False,False,False
+BAT,control vs CSDS,2-Oxindole,C12312,0.53,0.608528502199285,1.0,1.16909,Medium,increased,False,False,False,False
+BAT,control vs CSDS,2-Methylbenzoate,,-0.55,0.590657545279483,1.0,1.75077,High,decreased,False,False,False,False
+BAT,control vs CSDS,4-Toluic acid,C01454,-0.43,0.388007978620357,1.0,1.20744,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Salicylate,,0.49,0.745364545589047,1.0,0.606359,High,increased,False,False,False,False
+BAT,control vs CSDS,1-Methylnicotinamide,C02918,0.0,0.946769652089999,1.0,2.22539,Medium,unchanged,False,False,False,False
+BAT,control vs CSDS,6-Methylnicotinamide,,0.04,0.999999999509845,1.0,1.3531,Medium,increased,False,False,False,False
+BAT,control vs CSDS,4-Aminobenzoic acid,D02907,0.02,0.999351764459762,1.0,1.03346,Medium,increased,False,False,False,False
+BAT,control vs CSDS,trans-3-Indoleacrylic acid,,0.36,0.95446140961156,1.0,1.24362,Medium,increased,False,False,False,False
+BAT,control vs CSDS,1-Methylhistidine,C01152,1.23,0.419239581975359,1.0,1.08424,Medium,increased,False,False,False,False
+BAT,control vs CSDS,N-Acetyl-L-leucine,,-0.15,0.988874486468674,1.0,0.212943,High,decreased,False,False,False,False
+BAT,control vs CSDS,AMP,,0.39,0.991288885152864,1.0,4.3666,High,increased,False,False,False,False
+BAT,control vs CSDS,IMP,,0.75,0.674169400547393,1.0,2.79474,High,increased,False,False,False,False
+BAT,control vs CSDS,N-Acetylasparagine,,0.79,0.429970766119441,1.0,0.193103,High,increased,False,False,False,False
+BAT,control vs CSDS,Suberate,,0.11,0.950831365901705,1.0,0.336311,High,increased,False,False,False,False
+BAT,control vs CSDS,L-Arginine,C02385,0.71,0.637876702414497,1.0,3.82254,High,increased,False,False,False,False
+BAT,control vs CSDS,Guanidinoethyl sulfonate,C02419,0.41,0.828430725287273,1.0,0.306658,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Phosphoenolpyruvate,,0.05,0.995678994826768,1.0,0.592961,High,increased,False,False,False,False
+BAT,control vs CSDS,Urate,,0.73,0.95375162086656,1.0,0.78857,High,increased,False,False,False,False
+BAT,control vs CSDS,Homogentisate,,-0.02,0.998209009935118,1.0,0.0300768,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Cysteate,,-0.91,0.0327336677321851,1.0,0.32394,Medium,decreased,True,False,False,False
+BAT,control vs CSDS,Dihydroxyacetone Phosphate,,0.17,0.996848864790137,1.0,0.355351,High,increased,False,False,False,False
+BAT,control vs CSDS,Delta-Decalactone,,-0.51,0.954404020412235,1.0,0.273187,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,N-Acetylglutamate,,1.44,0.0575211894985579,1.0,3.34105,High,increased,False,False,False,False
+BAT,control vs CSDS,N-Methylglutamate,,-0.11,0.69249667657841,1.0,0.506987,High,decreased,False,False,False,False
+BAT,control vs CSDS,L-Carnitine,C00318,0.23,0.996802105327035,1.0,15.596,High,increased,False,False,False,False
+BAT,control vs CSDS,4-Hydroxyphenyllactate,,0.14,0.966412393106881,1.0,0.559894,High,increased,False,False,False,False
+BAT,control vs CSDS,"1,5-Anhydrosorbitol",,0.31,0.618777043303697,1.0,0.525903,High,increased,False,False,False,False
+BAT,control vs CSDS,Phenylalanine,,0.56,0.752738584196606,1.0,2.94234,High,increased,False,False,False,False
+BAT,control vs CSDS,Phthalate,,0.54,0.982058164429729,1.0,0.386687,Medium,increased,False,False,False,False
+BAT,control vs CSDS,3-(4-hydroxyphenyl)propanoate,,0.59,0.807639967991946,1.0,0.83223,High,increased,False,False,False,False
+BAT,control vs CSDS,Phenyllactate,,0.05,0.999269455434477,1.0,0.0327616,Medium,increased,False,False,False,False
+BAT,control vs CSDS,L-Histidine,,0.16,0.999738208232886,1.0,2.20079,High,increased,False,False,False,False
+BAT,control vs CSDS,Allantoin,,-0.05,0.999993161697506,1.0,0.079901,High,decreased,False,False,False,False
+BAT,control vs CSDS,2-Methylbutyrylglycine,,-0.17,0.999860723699708,1.0,0.126467,High,decreased,False,False,False,False
+BAT,control vs CSDS,DELTA-VALEROBETAINE,,0.48,0.890234955258013,1.0,9.05905,Medium,increased,False,False,False,False
+BAT,control vs CSDS,2-Oxoadipate,,-1.18,0.373700400951038,1.0,0.282913,High,decreased,False,False,False,False
+BAT,control vs CSDS,Ala-Ala,,0.94,0.517376870254214,1.0,0.530696,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Myoinositol,,-0.5,0.0160877079954223,1.0,4.25576,High,decreased,True,False,False,False
+BAT,control vs CSDS,N-Acetyl-L-cysteine,,0.5,0.971581158937121,1.0,0.133141,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Phenylacetylglycine,C05598,-0.67,0.928830823093722,1.0,0.194296,High,decreased,False,False,False,False
+BAT,control vs CSDS,Gluconate,,0.5,0.559362517343442,1.0,1.51748,High,increased,False,False,False,False
+BAT,control vs CSDS,Galactonate,,-0.56,0.0998356973967897,1.0,0.841527,High,decreased,False,False,False,False
+BAT,control vs CSDS,L-Tyrosine methyl ester,C03404,0.33,0.990412545547825,1.0,0.218162,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Galactose,,-0.79,0.969562281742893,1.0,0.0935358,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Mannose,,-0.95,0.946190734916108,1.0,0.083982,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Leu-Ala,,0.91,0.721507708735707,1.0,0.749004,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Glycyl-L-leucine,,1.01,0.421124595335217,1.0,1.27896,Medium,increased,False,False,False,False
+BAT,control vs CSDS,10-Hydroxydecanoate,,0.25,0.946463154979556,1.0,0.143067,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Beta-Glycerophosphate,,1.73,0.348921032087157,1.0,0.862213,Medium,increased,False,False,False,False
+BAT,control vs CSDS,N-Acetyl-methionine,,1.06,0.160987692401701,1.0,0.637073,High,increased,False,False,False,False
+BAT,control vs CSDS,Isocitrate,,0.03,0.999805907652753,1.0,0.398554,High,increased,False,False,False,False
+BAT,control vs CSDS,Citrate,,-0.07,0.994270713831866,1.0,0.983438,High,decreased,False,False,False,False
+BAT,control vs CSDS,Glucuronate,,-0.35,0.917522686431939,1.0,0.0690932,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Methyl Galactoside,,-0.35,0.616719455517027,1.0,0.319944,High,decreased,False,False,False,False
+BAT,control vs CSDS,GMP,,0.3,0.969385776474246,1.0,1.6764,High,increased,False,False,False,False
+BAT,control vs CSDS,Galactitol,,-0.48,0.564568188672179,1.0,0.399546,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,4-Pyridoxate,,0.52,0.999894758691368,1.0,0.167879,High,increased,False,False,False,False
+BAT,control vs CSDS,Phosphorylcholine,,0.81,0.776431016538274,1.0,3.47664,High,increased,False,False,False,False
+BAT,control vs CSDS,3-Phosphoglycerate,,-0.77,0.697293717286494,1.0,1.7563,High,decreased,False,False,False,False
+BAT,control vs CSDS,2-Phosphoglycerate,,0.06,0.999313099054679,1.0,0.391064,High,increased,False,False,False,False
+BAT,control vs CSDS,4-Hydroxy-3-Methoxyphenylglycol,,-0.31,0.982182534854433,1.0,0.0664176,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Pro-Ala,,0.92,0.389687449315553,1.0,0.643107,Medium,increased,False,False,False,False
+BAT,control vs CSDS,N-acetylaspartate,,0.19,0.993439880945468,1.0,0.790366,High,increased,False,False,False,False
+BAT,control vs CSDS,L-Citrulline,D07706,0.47,0.978175828797573,1.0,2.46335,High,increased,False,False,False,False
+BAT,control vs CSDS,Ascorbate,,0.03,0.891756521218319,1.0,1.85152,High,increased,False,False,False,False
+BAT,control vs CSDS,"1,2,3-Propanetricarboxylate",,0.09,0.956922893983444,1.0,0.0553084,High,increased,False,False,False,False
+BAT,control vs CSDS,N-Formyl-L-Methionine,,0.6,0.961378700934441,1.0,0.124149,High,increased,False,False,False,False
+BAT,control vs CSDS,Guanidinosuccinate,,-0.23,0.929040952025299,1.0,0.0730235,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Hippurate,,1.55,0.446765523689916,1.0,0.380764,High,increased,False,False,False,False
+BAT,control vs CSDS,Tyrosine,D00022,-0.11,0.894819865081693,1.0,1.53836,High,decreased,False,False,False,False
+BAT,control vs CSDS,D-Pantothenic acid,,-0.48,0.491817096524825,1.0,3.48993,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Propionylcarnitine,C03017,0.84,0.985627466384211,1.0,5.16981,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Thr-Thr,,1.92,0.0142829529161443,1.0,1.29592,Medium,increased,True,False,False,False
+BAT,control vs CSDS,Gly-Phe,,0.69,0.342776673296788,1.0,0.78071,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Carnosine,,-0.39,0.819630634197342,1.0,1.79368,High,decreased,False,False,False,False
+BAT,control vs CSDS,Ala-His,,0.64,0.67657221414955,1.0,0.993663,Medium,increased,False,False,False,False
+BAT,control vs CSDS,His-Ser,,1.08,0.275743767553944,1.0,0.603384,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Riboflavin Phosphate,,0.44,0.897975547865133,1.0,0.463997,Medium,increased,False,False,False,False
+BAT,control vs CSDS,N-Acetylphenylalanine,,0.5,0.950688908747463,1.0,0.120458,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Galactarate,,-2.63,0.190801311440884,1.0,0.487563,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,"1,3,7-Trimethylurate",,-0.18,0.97249245512765,1.0,0.168887,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Kynurenine,,0.31,0.997586174866624,1.0,0.0996036,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Phosphocreatine,,-2.88,0.0134339669447383,1.0,1.77944,High,decreased,True,False,False,False
+BAT,control vs CSDS,Ribose 5-phosphate,,0.66,0.539427692868495,1.0,1.52682,High,increased,False,False,False,False
+BAT,control vs CSDS,Indoxyl Sulfate,,-0.15,0.993610439472439,1.0,0.625954,High,decreased,False,False,False,False
+BAT,control vs CSDS,ADP,,-0.2,0.999996509796124,1.0,0.89358,High,decreased,False,False,False,False
+BAT,control vs CSDS,Cinnamoylglycine-trans,,0.54,0.984962905388492,1.0,0.0425936,Medium,increased,False,False,False,False
+BAT,control vs CSDS,2-Acetamido-2-Deoxy-D-Glucopyranose,,0.21,0.961621754463965,1.0,0.536555,Medium,increased,False,False,False,False
+BAT,control vs CSDS,N-Acetylgalactosamine,,-0.33,0.994692498103044,1.0,0.161147,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Acetyl-L-carnitine,,0.13,0.999951817428898,1.0,0.806579,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Ser-Thr,,0.82,0.511596585494406,1.0,0.375377,Medium,increased,False,False,False,False
+BAT,control vs CSDS,5-Methoxyindoleacetate,,-0.2,0.999999661672045,1.0,0.0337059,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Fucose,,0.12,0.999999230049073,1.0,0.0866533,Medium,increased,False,False,False,False
+BAT,control vs CSDS,O-Phosphoserine,,-0.51,0.948519563742505,1.0,0.39784,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Indole-3-Pyruvate,,0.02,0.982269592085411,1.0,0.0550972,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Pantothenate,,-0.11,0.929268022153441,1.0,3.45928,High,decreased,False,False,False,False
+BAT,control vs CSDS,O-Acetyl-L-carnitine,,0.08,0.999870875861892,1.0,3.51796,High,increased,False,False,False,False
+BAT,control vs CSDS,L-Glutathione oxidized,,0.31,0.828529705275572,1.0,2.17888,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Tryptophan,,0.32,0.995671432043908,1.0,1.21968,High,increased,False,False,False,False
+BAT,control vs CSDS,Val-Ser,,1.38,0.329747068771982,1.0,0.892808,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Ile-Ala,,0.7,0.324047173469643,1.0,0.632628,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Sebacate,,-0.33,0.999590828593854,1.0,0.0558667,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Galactose 1-phosphate,C00103,-0.03,0.99899315043726,1.0,0.69042,High,decreased,False,False,False,False
+BAT,control vs CSDS,N-Acetylglucosamine,,0.05,0.999357101406693,1.0,0.25301,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Hexanoylcarnitine,,0.27,0.99979149796605,1.0,1.28818,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Phe-Pro,,0.3,0.811466961967578,1.0,0.276979,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Deoxyguanosine,,-0.67,0.990098109960393,1.0,0.136409,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Adenosine,,0.34,0.963464875228177,1.0,3.39734,High,increased,False,False,False,False
+BAT,control vs CSDS,Inosine,,0.65,0.815951332204509,1.0,1.79979,High,increased,False,False,False,False
+BAT,control vs CSDS,Argininosuccinate,C03406,-0.23,0.999999521690373,1.0,0.352024,High,decreased,False,False,False,False
+BAT,control vs CSDS,Val-Met,,0.92,0.165732866700045,1.0,0.367024,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Deoxyinosine,,-0.42,0.999999728734847,1.0,0.0638119,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,dGTP,C00286,-0.98,0.864704240869427,1.0,3.82828,High,decreased,False,False,False,False
+BAT,control vs CSDS,Phe-Ser,,0.85,0.412568860925076,1.0,0.536101,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Coenzyme A,,-0.04,0.995504486800702,1.0,0.770768,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Glycerophosphocholine,,-0.65,0.0824916238149265,1.0,15.7644,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Ile-Gln,,1.08,0.627952797588097,1.0,1.3684,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Glucose 6-Phosphate,,-0.17,0.994454380861631,1.0,0.748859,High,decreased,False,False,False,False
+BAT,control vs CSDS,Dihydrobiopterin,,0.15,0.997833007357419,1.0,0.0753801,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Fructose 6-Phosphate,,-0.16,0.998446790435587,1.0,0.303217,High,decreased,False,False,False,False
+BAT,control vs CSDS,Lumichrome,,-0.08,0.95743804543941,1.0,0.15149,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Cytidine,D07769,1.28,0.428419870955787,1.0,1.83754,High,increased,False,False,False,False
+BAT,control vs CSDS,Uridine,,0.2,0.999721273698659,1.0,0.410811,High,increased,False,False,False,False
+BAT,control vs CSDS,Pseudouridine,,-0.14,0.754628796730851,1.0,0.134483,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Pro-Glu,,0.12,0.999725004470233,1.0,0.493571,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Leucylproline,,0.48,0.566050685854854,1.0,1.13113,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Deoxyuridine,,-0.05,0.999992486969625,1.0,0.0960516,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Myristic Acid,,0.03,0.999999591634392,1.0,1.2759,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Ergothioneine,,-0.39,0.105373233866555,1.0,3.92769,High,decreased,False,False,False,False
+BAT,control vs CSDS,D-Ribulose 5-phosphate,C00199,0.36,0.89471623993406,1.0,0.330692,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Prolylleucine,,-0.2,0.724903847788857,1.0,2.01754,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Gly-Arg,,0.94,0.797903016538249,1.0,0.832365,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Leu-Thr,,0.76,0.732631688038412,1.0,0.526103,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Decanoylcarnitine,,-0.14,0.951039907178054,1.0,0.588109,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,UMP,,0.27,0.684128719736463,1.0,1.88226,High,increased,False,False,False,False
+BAT,control vs CSDS,Trehalose,,1.38,0.480265490387496,1.0,0.70811,Medium,increased,False,False,False,False
+BAT,control vs CSDS,5'-Cytidylic acid,,-0.46,0.358470364682771,1.0,1.05066,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,CMP,,0.58,0.990505165732888,1.0,0.600302,High,increased,False,False,False,False
+BAT,control vs CSDS,N-Glycolylneuraminate,,0.64,0.0751513127676225,1.0,1.19171,Medium,increased,False,False,False,False
+BAT,control vs CSDS,cAMP,,0.59,0.813811072632902,1.0,0.364423,Medium,increased,False,False,False,False
+BAT,control vs CSDS,"(E)-8,9,10-trihydroxyoctadec-6-enoic acid",,0.7,0.941780753747052,1.0,0.20924,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Methylthioadenosine,C00170,0.47,0.999167403782107,1.0,0.252272,High,increased,False,False,False,False
+BAT,control vs CSDS,GDP-Mannose,C00096,0.27,0.994891914284777,1.0,0.641902,High,increased,False,False,False,False
+BAT,control vs CSDS,UDP-N-Acetylgalactosamine,C00043,0.16,0.996751913522317,1.0,2.01823,High,increased,False,False,False,False
+BAT,control vs CSDS,Arachidonic Acid,,0.08,0.998855243574262,1.0,0.361732,Medium,increased,False,False,False,False
+BAT,control vs CSDS,"2',3'-cCMP",,-1.22,0.372893850797322,1.0,0.262008,High,decreased,False,False,False,False
+BAT,control vs CSDS,Gamma-glutamylcysteinylglycine,,0.08,0.666724245427795,1.0,0.476042,Medium,increased,False,False,False,False
+BAT,control vs CSDS,N-Acetylneuraminate,,0.04,0.999999979015988,1.0,0.190876,High,increased,False,False,False,False
+BAT,control vs CSDS,12(13)-DiHOME,,1.12,0.186174315600662,1.0,0.824315,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Xanthosine,,1.26,0.73336823416618,1.0,0.109219,Medium,increased,False,False,False,False
+BAT,control vs CSDS,N-Acetyl-Glucosamine 1-Phosphate,,0.42,0.913425580610868,1.0,0.175868,High,increased,False,False,False,False
+BAT,control vs CSDS,Ophthalmate,,0.33,0.91195808736357,1.0,0.351907,Medium,increased,False,False,False,False
+BAT,control vs CSDS,UDP-Glucuronate,C00167,1.11,0.0227420049219104,1.0,1.99443,High,increased,True,False,False,False
+BAT,control vs CSDS,Guanosine 5'-diphospho-ß-L-fucose,C00325,-0.09,0.999973425229999,1.0,0.0536448,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Phe-Gln,,1.21,0.170042978640589,1.0,0.548158,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Gamma-Glutamylphenylalanine,,-0.17,0.986833696922403,1.0,0.212968,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,5-methyl-5' thioadenosine,,0.21,0.999642488225467,1.0,0.453169,Medium,increased,False,False,False,False
+BAT,control vs CSDS,16-Hydroxyhexadecanoic acid,C18218,0.59,0.93665914409071,1.0,0.655761,Medium,increased,False,False,False,False
+BAT,control vs CSDS,6-Phosphogluconate,,-0.72,0.935661134762398,1.0,0.521094,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Glutaryl-L-carnitine,,1.48,0.247470855398784,1.0,1.72431,High,increased,False,False,False,False
+BAT,control vs CSDS,ADP-Ribose,,0.44,0.984249651893261,1.0,2.76201,High,increased,False,False,False,False
+BAT,control vs CSDS,Linoleic acid,D01928,0.38,0.998562092085955,1.0,1.86768,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Oleic acid,D02315,0.3,0.998027558208307,1.0,0.560979,Medium,increased,False,False,False,False
+BAT,control vs CSDS,UDP-Glucose,,0.25,0.997248889145948,1.0,0.585701,High,increased,False,False,False,False
+BAT,control vs CSDS,Guanosine,,0.01,0.999999999780178,1.0,0.165129,High,increased,False,False,False,False
+BAT,control vs CSDS,3-Methyl-2-Oxovalerate,,-0.48,0.749802810052392,1.0,0.691673,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Dihydrothymine,,0.23,0.999498840182316,1.0,0.231867,Medium,increased,False,False,False,False
+BAT,control vs CSDS,L-Lysine,,0.4,0.977976868929121,1.0,1.37054,High,increased,False,False,False,False
+BAT,control vs CSDS,N-Acetyl-L-alanine,,-0.01,0.999998805367634,1.0,0.0455903,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,L-Hydroxyproline,,-0.23,0.992701117681881,1.0,0.636604,High,decreased,False,False,False,False
+BAT,control vs CSDS,Pipecolate,C00408,-0.57,0.775601078169793,1.0,1.3997,High,decreased,False,False,False,False
+BAT,control vs CSDS,L-Pipecolinic acid,,-0.46,0.636664102841736,1.0,0.734562,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,L-Ornithine,,-0.14,0.941765928588597,1.0,0.716086,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Glutamine,,0.28,0.760348041717458,1.0,8.07593,High,increased,False,False,False,False
+BAT,control vs CSDS,4-Imidazoleacetate,,0.51,0.525213887679671,1.0,0.473722,High,increased,False,False,False,False
+BAT,control vs CSDS,Glutamate,,0.0,0.919892265891117,1.0,3.80046,High,unchanged,False,False,False,False
+BAT,control vs CSDS,O-Acetyl-L-serine,,0.27,0.656739245859264,1.0,1.16942,High,increased,False,False,False,False
+BAT,control vs CSDS,N-Methylaspartate,,1.43,0.0259408165874915,1.0,1.94868,Medium,increased,True,False,False,False
+BAT,control vs CSDS,L-Pyroglutamic acid,,0.12,0.97481225280877,1.0,0.438788,Medium,increased,False,False,False,False
+BAT,control vs CSDS,5-Oxoproline,,0.57,0.832380909422868,1.0,0.29106,High,increased,False,False,False,False
+BAT,control vs CSDS,Deoxycarnitine,,0.77,0.15832642977597,1.0,8.84478,High,increased,False,False,False,False
+BAT,control vs CSDS,L-Homoserine,,0.53,0.999983344280685,1.0,0.4946,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Urocanate,,-0.51,0.945613566229868,1.0,1.13963,High,decreased,False,False,False,False
+BAT,control vs CSDS,Purine,,-0.21,0.999999712188348,1.0,0.0942475,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Anserine,,0.01,0.962587997584375,1.0,2.04138,High,increased,False,False,False,False
+BAT,control vs CSDS,Niacinamide,,0.17,0.998466343328555,1.0,4.50643,High,increased,False,False,False,False
+BAT,control vs CSDS,Nicotinamide,D00036,-0.1,0.999291672601646,1.0,1.71065,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,5-Methylcytosine,,0.73,0.48294105461037,1.0,0.856407,Medium,increased,False,False,False,False
+BAT,control vs CSDS,α-Methylhistamine,,0.03,0.994946003807079,1.0,0.498473,Medium,increased,False,False,False,False
+BAT,control vs CSDS,N-Acetylglycine,,-1.07,0.0769830379474825,1.0,0.270207,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Betaine,,0.62,0.21408828113002,1.0,22.5724,High,increased,False,False,False,False
+BAT,control vs CSDS,2-Methylmalonate,,0.36,0.832384920084878,1.0,0.6876,High,increased,False,False,False,False
+BAT,control vs CSDS,Cinnamyl Alcohol,,-0.1,0.999996194975098,1.0,0.841988,High,decreased,False,False,False,False
+BAT,control vs CSDS,Threonine,C12317,0.25,0.996629001713087,1.0,1.4187,High,increased,False,False,False,False
+BAT,control vs CSDS,Guanidinoacetate,,-0.24,0.985871120612876,1.0,0.984821,High,decreased,False,False,False,False
+BAT,control vs CSDS,Hypoxanthine,,-0.16,0.988769428857965,1.0,1.75485,High,decreased,False,False,False,False
+BAT,control vs CSDS,4-propylphenol,,-0.08,0.999994149337191,1.0,1.50151,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Asiatate,,1.45,0.276366588244349,1.0,0.177868,Medium,increased,False,False,False,False
+BAT,control vs CSDS,1-Palmitoyl-sn-glycero-3-Phosphocholine,,-0.2,0.539367144217339,1.0,4.86933,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Taurocholic acid,,0.9,0.123744060088188,1.0,3.31791,Medium,increased,False,False,False,False
+BAT,control vs CSDS,ATP,,-0.89,0.801822711075319,1.0,2.66689,High,decreased,False,False,False,False
+BAT,control vs CSDS,2'-Deoxyguanosine 5'-triphosphate (dGTP),C00286,-0.4,0.994636164038983,1.0,0.575677,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,Guanosine Triphosphate,,-0.43,0.878780014675298,1.0,0.546359,High,decreased,False,False,False,False
+BAT,control vs CSDS,Cyclic ADP-ribose,C13050,1.25,0.184822040758413,1.0,0.274301,Medium,increased,False,False,False,False
+BAT,control vs CSDS,Adenosine diphosphate ribose,,-0.42,0.999976488742732,1.0,0.0794009,Medium,decreased,False,False,False,False
+BAT,control vs CSDS,UDP-Galactose,,0.47,0.986362154718935,1.0,0.111367,High,increased,False,False,False,False
+BAT,control vs CSDS,"(3,9-Diacetyloxy-12-hydroxy-2,6,6,13-tetramethyl-8-tetracyclo[11.2.1.01,10.02,7]hexadecanyl) benzoate",,0.98,0.543849157278204,1.0,0.966053,Medium,increased,False,False,False,False
+BAT,control vs CSDS,ADP-Glucose,,1.18,0.590740618808708,1.0,0.545553,Medium,increased,False,False,False,False
+BAT,control vs CSDS,UDP-N-acetylglucosamine,C00043,-0.07,0.998539059915419,1.0,0.234409,High,decreased,False,False,False,False
+BAT,control vs CSDS,Lactic Acid,D02111,0.0,0.999986198771106,1.0,5.81984,Medium,unchanged,False,False,False,False
