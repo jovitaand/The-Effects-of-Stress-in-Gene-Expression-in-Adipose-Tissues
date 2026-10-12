@@ -1,0 +1,5 @@
+Tissue,Comparison,n_listed,n_not_found_in_Annotation,n_with_Annotation_p_not_below_0.05,max_|sheet_p - Annotation_p|,all_verified
+BAT,CMVS,10,0,0,0.0,True
+BAT,CSDS,10,0,0,0.0,True
+scW,CMVS,82,0,0,0.0,True
+scW,CSDS,65,0,0,0.0,True

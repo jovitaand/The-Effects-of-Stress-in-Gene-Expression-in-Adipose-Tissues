@@ -5,12 +5,12 @@ Generated from `original_workbook.xlsx`, sheet `Annotation` (301 metabolites).
 
 ## Statistical summary
 
-| Comparison           |   Total tested |   Raw p < 0.05 |   FDR < 0.05 |   Increased |   Decreased |   KEGG mapped (of tested) |   Pathway mapped (of FDR-significant) |
-|:---------------------|---------------:|---------------:|-------------:|------------:|------------:|--------------------------:|--------------------------------------:|
-| scW: control vs CMVS |            301 |             82 |           25 |          25 |           0 |                        54 |                                     4 |
-| scW: control vs CSDS |            301 |             65 |            1 |           1 |           0 |                        54 |                                     1 |
-| BAT: control vs CMVS |            301 |             10 |            0 |           0 |           0 |                        54 |                                     0 |
-| BAT: control vs CSDS |            301 |             10 |            0 |           0 |           0 |                        54 |                                     0 |
+| Comparison           |   Total tested |   Raw p < 0.05 / Sig_pvalue_0.05 |   FDR < 0.05 |   Increased |   Decreased |   KEGG mapped (of tested) |   Pathway mapped (of Sig_pvalue_0.05) |
+|:---------------------|---------------:|---------------------------------:|-------------:|------------:|------------:|--------------------------:|--------------------------------------:|
+| scW: control vs CMVS |            301 |                               82 |           25 |          82 |           0 |                        54 |                                    12 |
+| scW: control vs CSDS |            301 |                               65 |            1 |          65 |           0 |                        54 |                                    13 |
+| BAT: control vs CMVS |            301 |                               10 |            0 |           7 |           3 |                        54 |                                     1 |
+| BAT: control vs CSDS |            301 |                               10 |            0 |           4 |           6 |                        54 |                                     3 |
 
 
 ## Enrichment / pathway summary (workbook's own precomputed values)
@@ -52,18 +52,18 @@ Generated from `original_workbook.xlsx`, sheet `Annotation` (301 metabolites).
 
 ## Tissue comparison
 
-- scW is associated with a substantially larger, FDR-robust metabolite response to CMVS than BAT (25 vs 0 FDR-significant metabolites).
+- Under `Sig_pvalue_0.05` (raw p<0.05, the criterion gating every figure in this notebook; see Section 13), scW shows a substantially larger metabolite response to CMVS than BAT does (82 vs 10 metabolites).
 
-- Under CSDS, both tissues show a much smaller response (scW: 1, BAT: 0).
+- Under CSDS, scW again shows a larger `Sig_pvalue_0.05` response than BAT (scW: 65, BAT: 10).
 
-- No metabolite is FDR-significant in more than one of the four comparisons (confirmed by the UpSet-style overlap plot).
+- Under the stricter FDR-adjusted criterion (reported but not gating), only scW's two comparisons survive multiple-testing correction (25 for CMVS, 1 for CSDS); BAT's `Sig_pvalue_0.05` hits in both comparisons do not survive FDR correction.
 
 
 ## Treatment comparison
 
-- Within scW, CMVS produces a much larger significant response than CSDS (25 vs 1).
+- Within scW, CMVS produces a larger `Sig_pvalue_0.05` response than CSDS (82 vs 65).
 
-- Within BAT, neither stressor produces an FDR-significant metabolite at this threshold.
+- Within BAT, CMVS and CSDS each produce 10 and 10 `Sig_pvalue_0.05` metabolites respectively; neither survives FDR correction at this sample size.
 
 
 ## Limitations
