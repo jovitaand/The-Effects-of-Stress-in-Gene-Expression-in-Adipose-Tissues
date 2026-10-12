@@ -1,0 +1,302 @@
+Metabolite,Lab_ID,KEGG_ID,Tissue,Comparison,log2FC,p_raw,p_adjusted_FDR,VIP,nominally_significant (p<0.05),Sig_pvalue_0.05,FDR_significant (adj.p<0.05),direction,pathway,annotation_status
+Asparagine,221,C00152,scW,control vs CSDS,0.79,0.000110327249178699,0.0353777315187574,1.39145,True,True,True,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+2-Oxindole,495,C12312,scW,control vs CSDS,2.16,0.000240454424312087,0.0601812221606987,3.53575,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Trimethylamine N-Oxide,10,,scW,control vs CSDS,1.71,0.000289297785330933,0.0624159971851488,3.76062,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Leucylproline,1741,,scW,control vs CSDS,1.84,0.000706967265817093,0.100222514096496,0.995514,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3-Sulfinoalanine,755,,scW,control vs CSDS,1.85,0.000726639740671442,0.100761775136647,0.608987,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Niacinamide,359,,scW,control vs CSDS,0.76,0.000743002660862246,0.100761775136647,10.1338,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phenylalanine,915,,scW,control vs CSDS,1.11,0.000880765104572245,0.106438111070284,6.16289,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Asiatate,4626,,scW,control vs CSDS,1.97,0.000958614864478124,0.112347295166554,0.261082,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetylneuraminate,2852,,scW,control vs CSDS,0.93,0.00114403751476178,0.123891128229398,0.637885,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Threonine,311,C12317,scW,control vs CSDS,0.8,0.00193068902543136,0.16970398998537,3.64686,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Ophthalmate,2591,,scW,control vs CSDS,1.56,0.00211833732292976,0.179548001844395,0.635545,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Galactonate,1326,,scW,control vs CSDS,1.13,0.00231240505919794,0.187757388365612,1.84662,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetyl-Glucosamine 1-Phosphate,2554,,scW,control vs CSDS,1.4,0.00231949049764835,0.187757388365612,0.707201,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phe-Pro,2239,,scW,control vs CSDS,1.18,0.00232381319291264,0.187757388365612,0.548772,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glutamine,407,,scW,control vs CSDS,0.89,0.00311001665116784,0.197832353414818,11.6063,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Tyrosine,1143,D00022,scW,control vs CSDS,1.3,0.00322112844629141,0.201172186451608,4.18184,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+"2,6-Dihydroxybenzoic acid",768,,scW,control vs CSDS,1.15,0.00338132664214397,0.207089895573372,1.13557,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+1-Aminocyclopropanecarboxylate,130,,scW,control vs CSDS,0.9,0.00387621389773007,0.21949591177887,1.71679,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+trans-3-Indoleacrylic acid,994,,scW,control vs CSDS,0.83,0.00407671670331478,0.227255573612863,3.18377,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ergothioneine,1754,,scW,control vs CSDS,0.73,0.00409361667415986,0.227255573612863,3.55204,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ribose 5-phosphate,1542,,scW,control vs CSDS,1.1,0.0045583289653981,0.245209300192358,2.00865,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"1,5-Anhydrosorbitol",901,,scW,control vs CSDS,0.68,0.00583608031595206,0.277009552196665,1.13885,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Kynurenine,1526,,scW,control vs CSDS,1.4,0.006072931992117,0.284937358381471,0.349088,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Aloin,4055,,scW,control vs CSDS,1.53,0.00682375458591211,0.296924770760296,0.562605,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Arginine,1044,C02385,scW,control vs CSDS,1.23,0.00704184948325848,0.301118365516093,6.10211,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Uridine 5'-diphosphate,3931,,scW,control vs CSDS,0.61,0.00729755991252934,0.306529806414341,0.466334,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Pyridoxal,721,,scW,control vs CSDS,1.92,0.00884742486858836,0.345632116368351,1.61183,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Xanthine,733,,scW,control vs CSDS,1.16,0.00898547944596439,0.346509219881403,3.57093,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Indoxyl Sulfate,1553,,scW,control vs CSDS,1.36,0.00989233888864516,0.372366610184135,1.35503,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Serine,155,,scW,control vs CSDS,0.82,0.0107566650794302,0.391237630647627,2.42208,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Hydroxypyridine,90,,scW,control vs CSDS,0.64,0.0112121643543467,0.398640734890686,0.611496,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetylglutamate,993,,scW,control vs CSDS,1.45,0.0112878341504394,0.399542712876685,3.15908,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Allantoin,807,,scW,control vs CSDS,1.09,0.0117353373838317,0.40510384648987,1.33982,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+UDP-Glucuronate,2602,C00167,scW,control vs CSDS,1.06,0.0119763509394563,0.408962228303087,0.971969,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Methionine,693,D00019,scW,control vs CSDS,0.79,0.0123142463881348,0.416011177802719,5.72321,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+UDP-N-acetylglucosamine,5227,C00043,scW,control vs CSDS,1.33,0.013725356703397,0.438703067964135,0.483285,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+His-Ser,1728,,scW,control vs CSDS,1.19,0.0140789501772737,0.443600465683176,0.40055,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Gluconate,1325,,scW,control vs CSDS,0.98,0.0147061486327148,0.448706464841342,1.52755,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Inosine,2302,,scW,control vs CSDS,1.78,0.0152723473842088,0.458798714298399,3.98966,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+DELTA-VALEROBETAINE,818,,scW,control vs CSDS,1.05,0.0154953843396953,0.461121265005416,7.14938,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Proline,228,,scW,control vs CSDS,0.97,0.0165975623480442,0.480037591307301,9.61027,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Tryptophan,1441,,scW,control vs CSDS,0.82,0.0190077752843619,0.526066503715591,3.26643,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Methylaspartate,416,,scW,control vs CSDS,1.32,0.0200737176468904,0.544054925859812,1.70101,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Taurocholic acid,4695,,scW,control vs CSDS,2.27,0.0218395544309542,0.568548655704089,3.623,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ureidopropionate,258,,scW,control vs CSDS,1.76,0.0219638747752234,0.568548655704089,1.28994,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Deoxycarnitine,429,,scW,control vs CSDS,0.97,0.0224822208557743,0.577888052799539,4.85973,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Hypoxanthine,324,,scW,control vs CSDS,1.18,0.0240241266327529,0.601891986844146,4.38314,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Aminobenzoic acid,551,D02907,scW,control vs CSDS,0.71,0.0273552308487083,0.643765190803068,4.05076,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Riboflavin Phosphate,1737,,scW,control vs CSDS,1.07,0.0302823446484508,0.681209236369061,0.377624,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Acetamido-2-Deoxy-D-Glucopyranose,1459,,scW,control vs CSDS,0.66,0.0303672868177365,0.681505091633032,0.854187,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+UMP,3019,,scW,control vs CSDS,0.66,0.0318470536183991,0.703858102411566,2.79245,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Nicotinamide,362,D00036,scW,control vs CSDS,1.03,0.0350035276920355,0.751250783856372,1.4641,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Cytosine,189,,scW,control vs CSDS,1.21,0.0358771613909792,0.759609648663536,2.27938,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Glycolylneuraminate,3032,,scW,control vs CSDS,0.92,0.0372564799966392,0.771407827671184,0.895035,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+D-Histidine,779,,scW,control vs CSDS,1.04,0.0398209712683426,0.804298894149737,3.26076,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+CMP,3029,,scW,control vs CSDS,0.99,0.0410247696602879,0.821620545116272,1.36147,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Stachydrine,634,,scW,control vs CSDS,0.73,0.0415222856650133,0.826945643806246,5.26609,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Betaine,274,,scW,control vs CSDS,0.79,0.0431670298275405,0.843116441379237,14.8876,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Taurine,172,D00047,scW,control vs CSDS,0.71,0.0437995751403982,0.850285003696933,10.7356,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Guanidinoacetate,313,,scW,control vs CSDS,0.71,0.0453320020636723,0.859571157651953,2.52116,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Carnitine,883,C00318,scW,control vs CSDS,0.46,0.0455344134777627,0.859571157651953,21.9728,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Orotate,785,,scW,control vs CSDS,1.06,0.0461408395738767,0.861789403702021,0.674523,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Citrulline,1049,D07706,scW,control vs CSDS,0.94,0.0479826635117908,0.8784984785581,3.37864,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+ADP-Glucose,5172,,scW,control vs CSDS,1.89,0.0480054656658803,0.8784984785581,0.247234,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Dihydrobiopterin,1909,,scW,control vs CSDS,0.98,0.0489430145885382,0.884826923270297,0.304572,True,True,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Cytidine,1928,D07769,scW,control vs CSDS,1.1,0.0550003414024862,0.942451698436465,1.51612,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+L-Ornithine,461,,scW,control vs CSDS,0.92,0.0561976404825067,0.95778133052143,1.04726,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phosphoric acid,11,,scW,control vs CSDS,0.87,0.0661060585495011,1.0,7.74478,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-acetylaspartate,1047,,scW,control vs CSDS,0.99,0.0704362640463351,1.0,2.45313,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ethyl acetoacetate,23,,scW,control vs CSDS,0.41,0.0721698058052767,1.0,1.59243,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+NADPH,3581,,scW,control vs CSDS,0.88,0.0731707630850714,1.0,0.185239,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetyl-methionine,1261,,scW,control vs CSDS,1.35,0.0740899442401,1.0,0.378512,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3-Methyl-2-Oxovalerate,431,,scW,control vs CSDS,0.86,0.074234876814554,1.0,1.80024,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Cinnamoylglycine-trans,1458,,scW,control vs CSDS,3.05,0.0743558781953867,1.0,0.326375,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Pro-Glu,1981,,scW,control vs CSDS,0.85,0.0745100222271436,1.0,0.485719,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"(3,9-Diacetyloxy-12-hydroxy-2,6,6,13-tetramethyl-8-tetracyclo[11.2.1.01,10.02,7]hexadecanyl) benzoate",5073,,scW,control vs CSDS,1.53,0.0793643282461862,1.0,0.616288,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Glutathione oxidized,1438,,scW,control vs CSDS,0.82,0.0845105914908346,1.0,1.95043,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phosphorylcholine,1167,,scW,control vs CSDS,1.66,0.0890941307102389,1.0,6.65853,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phe-Gln,2675,,scW,control vs CSDS,1.67,0.0973888914559085,1.0,0.242501,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Dihydroxyacetone Phosphate,982,,scW,control vs CSDS,1.09,0.0977416513506136,1.0,0.614689,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Methyl Galactoside,1301,,scW,control vs CSDS,0.64,0.101742867337569,1.0,0.430151,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Citrate,1277,,scW,control vs CSDS,1.15,0.103960676712862,1.0,3.13379,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3-Hydroxybutyrate,139,,scW,control vs CSDS,1.16,0.107985795550349,1.0,1.48029,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+AMP,1018,,scW,control vs CSDS,0.62,0.10862545607378,1.0,7.9625,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Hippurate,1110,,scW,control vs CSDS,2.58,0.11124977803783,1.0,0.932071,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+FAD,3792,,scW,control vs CSDS,0.9,0.111293051406778,1.0,0.962843,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Histidine,795,,scW,control vs CSDS,1.02,0.114088976072841,1.0,7.40653,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glutamate,413,,scW,control vs CSDS,0.67,0.115570695106278,1.0,8.09278,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+ADP-Ribose,2466,,scW,control vs CSDS,1.1,0.117061570729485,1.0,2.27459,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+UDP-N-Acetylgalactosamine,2787,C00043,scW,control vs CSDS,0.77,0.123058662559884,1.0,2.44422,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Ascorbate,1061,,scW,control vs CSDS,0.37,0.135670445425129,1.0,3.66963,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetyl-L-leucine,1014,,scW,control vs CSDS,1.25,0.145269171024294,1.0,0.621941,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Hydroxyproline,445,,scW,control vs CSDS,1.09,0.150021298126347,1.0,1.36072,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Hydroxyphenyllactate,897,,scW,control vs CSDS,1.62,0.164270050627297,1.0,0.593636,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetyl-L-cysteine,879,,scW,control vs CSDS,1.14,0.170464766989833,1.0,0.232971,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Guanosine 5'-diphospho-ß-L-fucose,2673,C00325,scW,control vs CSDS,0.56,0.170689593573253,1.0,0.278366,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Salicylate,525,,scW,control vs CSDS,1.01,0.171372089208519,1.0,0.710929,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ornithine,267,D08302,scW,control vs CSDS,0.71,0.171848780973828,1.0,2.10506,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+D-Ribulose 5-phosphate,1769,C00199,scW,control vs CSDS,1.11,0.180439518620669,1.0,0.281539,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+L-Pyroglutamic acid,417,,scW,control vs CSDS,0.62,0.203943536040367,1.0,0.509747,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glycerophosphocholine,2152,,scW,control vs CSDS,0.73,0.206889484434225,1.0,5.72193,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Beta-NAD,3125,,scW,control vs CSDS,-1.88,0.219478680091614,1.0,1.35769,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Formyl-L-Methionine,1070,,scW,control vs CSDS,1.04,0.225083474976615,1.0,0.170545,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Gamma-Glutamylphenylalanine,2695,,scW,control vs CSDS,0.92,0.242070637639727,1.0,0.453832,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Aminoadipic acid,616,,scW,control vs CSDS,0.82,0.262011606178409,1.0,2.68158,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Purine,344,,scW,control vs CSDS,2.65,0.265460318183632,1.0,0.365375,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glucuronate,1299,,scW,control vs CSDS,0.52,0.276148464913955,1.0,0.304837,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Imidazoleacetate,408,,scW,control vs CSDS,0.56,0.278161887886888,1.0,0.627495,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Uracil,186,,scW,control vs CSDS,0.47,0.284091125926404,1.0,0.985408,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3-Methoxypropanoic acid,140,,scW,control vs CSDS,1.08,0.288685236740084,1.0,1.11786,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Adenosine,2281,,scW,control vs CSDS,0.6,0.295061082283959,1.0,7.39503,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+D-Pantothenic acid,1625,,scW,control vs CSDS,1.28,0.29930507491404,1.0,2.96674,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Lactic Acid,5,D02111,scW,control vs CSDS,0.72,0.302860258819033,1.0,8.66605,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+5-methyl-5' thioadenosine,2727,,scW,control vs CSDS,0.7,0.302963396723379,1.0,1.29499,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Pseudouridine,1942,,scW,control vs CSDS,0.3,0.303190665513266,1.0,0.227355,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+6-Phosphogluconate,2408,,scW,control vs CSDS,0.74,0.3161595572173,1.0,0.378123,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Riboflavin (B2),3641,,scW,control vs CSDS,0.97,0.325198709487224,1.0,0.284048,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+UDP-Galactose,5038,,scW,control vs CSDS,0.65,0.325243139913288,1.0,0.116696,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Melibiose,3237,,scW,control vs CSDS,0.45,0.325988130012573,1.0,0.124701,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"1,2,3-Propanetricarboxylate",1062,,scW,control vs CSDS,0.94,0.327329532596728,1.0,0.767389,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetylphenylalanine,1511,,scW,control vs CSDS,1.25,0.32945010925611,1.0,0.295858,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Dephospho-Coenzyme-A,3249,,scW,control vs CSDS,1.13,0.332994643606836,1.0,0.396277,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Hexanoylcarnitine,2192,,scW,control vs CSDS,-0.84,0.336190031320577,1.0,1.38556,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Pantothenate,1421,,scW,control vs CSDS,0.83,0.342645343422781,1.0,5.50072,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Uridine,1941,,scW,control vs CSDS,0.92,0.347340121968749,1.0,1.21384,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Guanine,759,C00242,scW,control vs CSDS,0.31,0.350981940197345,1.0,0.905367,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Thiamine Pyrophosphate,4115,,scW,control vs CSDS,0.56,0.356296005654178,1.0,0.331776,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3'-Dephosphocoenzyme A,3248,C00882,scW,control vs CSDS,1.78,0.36280461035091,1.0,0.338984,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+N-Acetylasparagine,1032,,scW,control vs CSDS,1.24,0.368433835625343,1.0,0.382757,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Sebacate,1456,,scW,control vs CSDS,0.99,0.369667954988106,1.0,0.135605,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Fucose,1488,,scW,control vs CSDS,1.09,0.374739301586072,1.0,0.320943,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Creatinine,229,,scW,control vs CSDS,0.89,0.384725909184998,1.0,3.57688,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Galactose 1-phosphate,2174,C00103,scW,control vs CSDS,0.83,0.398191315849974,1.0,1.46623,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+N-Acetyl-1-aspartylglutamic acid,736,C12270,scW,control vs CSDS,1.45,0.415932076848125,1.0,1.36021,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Phosphoenolpyruvate,948,,scW,control vs CSDS,0.95,0.416288984366231,1.0,0.591316,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Pipecolinic acid,454,,scW,control vs CSDS,0.6,0.419399269854778,1.0,0.825613,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glutathione Reduced,766,C02471,scW,control vs CSDS,0.6,0.43861126001003,1.0,5.50761,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Isobutyrate,34,,scW,control vs CSDS,0.91,0.439853513731483,1.0,0.811391,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Homoserine,337,,scW,control vs CSDS,1.42,0.447896438162675,1.0,0.907884,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Adenine,488,,scW,control vs CSDS,0.37,0.449587016458255,1.0,2.05964,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Methylthioadenosine,2728,C00170,scW,control vs CSDS,0.86,0.457666018739454,1.0,0.779682,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Urate,952,,scW,control vs CSDS,1.01,0.462061536690487,1.0,2.03887,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+ATP,4740,,scW,control vs CSDS,-0.82,0.471129677181756,1.0,1.76292,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Hydroxyglutarate,687,,scW,control vs CSDS,0.61,0.488936372957105,1.0,1.94952,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+S-Adenosylhomocysteine,3700,,scW,control vs CSDS,0.9,0.492197333864023,1.0,0.41987,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phenyllactate,931,,scW,control vs CSDS,1.18,0.494315196177688,1.0,0.223312,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Indole-3-Pyruvate,1417,,scW,control vs CSDS,0.55,0.514933731268987,1.0,0.0937214,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Methylpyrazine,89,,scW,control vs CSDS,-0.53,0.515984957733228,1.0,3.84018,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Xylitol,737,,scW,control vs CSDS,0.37,0.525127847072861,1.0,0.247261,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glutaryl-L-carnitine,2423,,scW,control vs CSDS,0.87,0.529880665197543,1.0,0.645872,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Lysine,436,,scW,control vs CSDS,1.13,0.530153653276751,1.0,4.16468,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Gly-Phe,1680,,scW,control vs CSDS,0.91,0.530587638318786,1.0,0.32851,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+5-(Hydroxymethyl)furfural,173,,scW,control vs CSDS,1.19,0.54155295039776,1.0,0.69826,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetyl-L-alanine,442,,scW,control vs CSDS,0.63,0.54541438510459,1.0,0.262158,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Myoinositol,870,,scW,control vs CSDS,0.17,0.548367238306657,1.0,2.41385,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Gamma-glutamylcysteinylglycine,2832,,scW,control vs CSDS,0.4,0.555217366834427,1.0,0.385444,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"3,4-Dimethylbenzoic acid",711,,scW,control vs CSDS,0.31,0.556263286169899,1.0,1.79153,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Argininosuccinate,2354,C03406,scW,control vs CSDS,0.33,0.556660840528965,1.0,0.391557,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+5-Methoxyindoleacetate,1487,,scW,control vs CSDS,-0.76,0.57373804516694,1.0,0.240688,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetylgalactosamine,1460,,scW,control vs CSDS,0.56,0.593306446783491,1.0,0.638042,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Xanthosine,2544,,scW,control vs CSDS,1.46,0.601597312317141,1.0,0.180705,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Pyridoxate,1166,,scW,control vs CSDS,1.31,0.602029639556522,1.0,0.418315,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+NADP,3588,,scW,control vs CSDS,0.47,0.619934104872367,1.0,0.296714,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+dGTP,2076,C00286,scW,control vs CSDS,-0.51,0.634149561215919,1.0,1.26382,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+N-Acetylglycine,273,,scW,control vs CSDS,0.47,0.634899185548298,1.0,0.266439,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+O-Phosphoserine,1504,,scW,control vs CSDS,-0.41,0.639274461486774,1.0,0.998222,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+N-Acetylglucosamine,2185,,scW,control vs CSDS,0.5,0.650269212992111,1.0,0.402576,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Aspartate,226,,scW,control vs CSDS,0.5,0.655937975432177,1.0,1.40576,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+GDP-Mannose,2774,C00096,scW,control vs CSDS,0.54,0.662334986476956,1.0,0.505354,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Methylimidazoleacetic acid,600,C05828,scW,control vs CSDS,0.52,0.663225914685006,1.0,0.541809,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+"(E)-8,9,10-trihydroxyoctadec-6-enoic acid",3085,,scW,control vs CSDS,0.48,0.665393460003698,1.0,0.291797,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+L-Tyrosine methyl ester,1344,C03404,scW,control vs CSDS,0.32,0.68204913708997,1.0,0.240123,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+dGMP,3286,,scW,control vs CSDS,0.45,0.686145995583114,1.0,0.411163,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Adenosine diphosphate ribose,5011,,scW,control vs CSDS,1.77,0.696790663759794,1.0,0.26454,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Methylbutyrylglycine,812,,scW,control vs CSDS,0.62,0.698081281737123,1.0,0.298116,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Acetamidobutanoate,629,,scW,control vs CSDS,0.88,0.701287422778564,1.0,0.298279,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Pyruvic acid,32,C00022,scW,control vs CSDS,0.99,0.703342398830362,1.0,1.51621,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+N-Methylglutamate,881,,scW,control vs CSDS,0.38,0.706266638712664,1.0,0.362268,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Guanosine,2517,,scW,control vs CSDS,0.85,0.708367750459252,1.0,0.465365,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glucose 6-Phosphate,2173,,scW,control vs CSDS,0.89,0.717397424524436,1.0,0.832022,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+D-(+)-Glucose,1361,D00053,scW,control vs CSDS,0.5,0.718123199259904,1.0,1.39106,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Pro-Ala,1226,,scW,control vs CSDS,0.56,0.72898645597156,1.0,0.347403,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Histamine,196,,scW,control vs CSDS,-0.38,0.755046801337233,1.0,5.31982,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Delta-Decalactone,989,,scW,control vs CSDS,0.34,0.755740832470084,1.0,0.202406,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Acetyl-L-carnitine,1463,,scW,control vs CSDS,0.62,0.756795844626704,1.0,1.11857,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Pipecolate,452,C00408,scW,control vs CSDS,0.82,0.762112063327791,1.0,1.19253,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+5-Oxoproline,418,,scW,control vs CSDS,0.24,0.768334293305721,1.0,0.368616,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Trehalose,3020,,scW,control vs CSDS,1.41,0.771135074954407,1.0,0.437381,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+cAMP,3071,,scW,control vs CSDS,0.46,0.77541099329013,1.0,0.151174,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Diethanolamine,57,,scW,control vs CSDS,-0.57,0.784725332760341,1.0,1.27283,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Methylmalonate,289,,scW,control vs CSDS,0.23,0.80326453317484,1.0,0.606274,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+10-Hydroxydecanoate,1255,,scW,control vs CSDS,0.55,0.807516556568645,1.0,0.61388,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3-Hydroxyisobutyrate,141,,scW,control vs CSDS,0.86,0.811858964855473,1.0,1.16192,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+GMP,1147,,scW,control vs CSDS,0.34,0.814236073477496,1.0,1.74747,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+O-Phosphoethanolamine,581,,scW,control vs CSDS,0.28,0.837474764154611,1.0,1.05775,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"3',5'-ADP",4124,,scW,control vs CSDS,0.68,0.844820528005553,1.0,0.484498,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Creatine,194,C00300,scW,control vs CSDS,0.46,0.846097950845157,1.0,18.7136,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Val-Ser,1442,,scW,control vs CSDS,0.17,0.858645244423756,1.0,0.161859,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Guanosine Triphosphate,4838,,scW,control vs CSDS,0.65,0.861734218923165,1.0,0.23967,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+O-Acetyl-L-serine,414,,scW,control vs CSDS,0.24,0.86572156977265,1.0,1.66678,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Malate,254,,scW,control vs CSDS,0.97,0.866421040626053,1.0,2.27044,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+5-Methylcytosine,390,,scW,control vs CSDS,-0.33,0.872623885921716,1.0,0.616405,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Maltotetraose,3118,,scW,control vs CSDS,1.64,0.873756366294001,1.0,0.920586,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Galactarate,1519,,scW,control vs CSDS,1.02,0.880880403712007,1.0,0.410416,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Guanidinobutanoate,639,,scW,control vs CSDS,0.26,0.881809381205981,1.0,1.68722,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"2',3'-cCMP",2803,,scW,control vs CSDS,0.94,0.891041008084198,1.0,0.403333,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glycyl-L-leucine,1254,,scW,control vs CSDS,0.54,0.909984923240965,1.0,0.232717,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Fructose 6-Phosphate,1913,,scW,control vs CSDS,0.75,0.913247934283378,1.0,0.681369,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phosphocreatine,1532,,scW,control vs CSDS,0.51,0.913322652786561,1.0,0.788674,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phenylacetylglycine,1316,C05598,scW,control vs CSDS,0.08,0.913391572391335,1.0,0.281297,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Galactitol,1157,,scW,control vs CSDS,0.45,0.916710659023525,1.0,0.249721,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Raffinose,4618,,scW,control vs CSDS,1.36,0.922905730847416,1.0,0.941869,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ile-Gln,2161,,scW,control vs CSDS,0.93,0.92627638815126,1.0,0.330664,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Propionylcarnitine,1631,C03017,scW,control vs CSDS,-0.21,0.926966865121127,1.0,3.27361,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Gly-Arg,1793,,scW,control vs CSDS,0.45,0.928693787467445,1.0,0.226887,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3'-Adenosine monophosphate (3'-AMP),3315,C01367,scW,control vs CSDS,0.05,0.935881190339368,1.0,0.355864,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+UTP,4597,,scW,control vs CSDS,-0.11,0.936991407109113,1.0,0.30872,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Prolylleucine,1776,,scW,control vs CSDS,0.96,0.945922619636825,1.0,1.22499,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Hypotaurine,174,C00519,scW,control vs CSDS,0.38,0.949464510400611,1.0,2.02512,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Glycerate,164,,scW,control vs CSDS,0.18,0.952177807910582,1.0,0.337769,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+CDP,3923,,scW,control vs CSDS,-0.06,0.955551633858944,1.0,0.0878201,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2'-Deoxyguanosine 5'-triphosphate (dGTP),4744,C00286,scW,control vs CSDS,-1.34,0.95957839294579,1.0,0.805395,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+S-Adenosylmethionine,3863,C00019,scW,control vs CSDS,0.38,0.961361986117215,1.0,0.779901,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Mannose,1366,,scW,control vs CSDS,0.51,0.962296578077222,1.0,0.44155,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Guanidinosuccinate,1098,,scW,control vs CSDS,-0.25,0.962343331309625,1.0,0.0770974,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+ADP,1563,,scW,control vs CSDS,0.47,0.965258635222478,1.0,0.952949,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Arachidonic Acid,2799,,scW,control vs CSDS,0.86,0.965643819700805,1.0,0.643514,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phosphoadenosine phosphosulfate,4122,,scW,control vs CSDS,-0.93,0.9672087365132,1.0,1.86284,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Coenzyme A,2098,,scW,control vs CSDS,0.12,0.967700310067468,1.0,0.3381,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phe-Trp,3347,,scW,control vs CSDS,0.31,0.968882700583686,1.0,0.061086,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+UDP-Glucose,2516,,scW,control vs CSDS,0.49,0.969215697253664,1.0,0.635984,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Hydroxy-4-(Methylthio)Butanoate,705,,scW,control vs CSDS,0.59,0.97003121583917,1.0,0.147649,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Choline,158,,scW,control vs CSDS,0.06,0.976105039608578,1.0,3.75796,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Oleic acid,2512,D02315,scW,control vs CSDS,-0.66,0.978291618865272,1.0,2.68538,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Ala-His,1727,,scW,control vs CSDS,0.39,0.978828555902262,1.0,0.190126,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Cinnamyl Alcohol,306,,scW,control vs CSDS,0.1,0.980393340108452,1.0,1.30587,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Thr-Thr,1645,,scW,control vs CSDS,0.45,0.982589919737049,1.0,0.0578009,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+α-Methylhistamine,402,,scW,control vs CSDS,0.45,0.984445345671577,1.0,1.50276,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+16-Hydroxyhexadecanoic acid,2362,C18218,scW,control vs CSDS,0.11,0.984930615260226,1.0,0.666528,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Ala-Ala,824,,scW,control vs CSDS,0.25,0.985577192276842,1.0,0.0797547,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-propylphenol,327,,scW,control vs CSDS,0.05,0.986370221270707,1.0,2.20194,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Deoxyguanosine,2280,,scW,control vs CSDS,-0.6,0.990216967392762,1.0,0.35324,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Decanoylcarnitine,2943,,scW,control vs CSDS,0.23,0.991067842111835,1.0,0.0755017,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Adenosine 5'-monophosphate,3314,D02769,scW,control vs CSDS,0.39,0.991320964707507,1.0,0.128011,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Palmitoylcarnitine,3875,,scW,control vs CSDS,-0.39,0.992109245040954,1.0,0.276619,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Homogentisate,955,,scW,control vs CSDS,0.45,0.992403073751924,1.0,0.122049,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phe-Ser,2087,,scW,control vs CSDS,0.66,0.992610544967483,1.0,0.137983,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Oxoglutarate,642,C00026,scW,control vs CSDS,-0.11,0.992740731026536,1.0,0.530259,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+2-Phosphoglycerate,1196,,scW,control vs CSDS,0.16,0.994718684848824,1.0,0.23495,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Linoleic acid,2483,D01928,scW,control vs CSDS,-0.72,0.994802096195563,1.0,4.14534,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+3-(4-hydroxyphenyl)propanoate,930,,scW,control vs CSDS,0.07,0.995616543197347,1.0,0.365164,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Myristic Acid,1748,,scW,control vs CSDS,0.33,0.996089741957354,1.0,1.54014,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Suberate,1041,,scW,control vs CSDS,-0.49,0.996995129339324,1.0,0.306651,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Hydroxy-3-Methoxyphenylglycol,1204,,scW,control vs CSDS,0.26,0.997233509568635,1.0,0.0879902,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glucose 1-phosphate,1938,,scW,control vs CSDS,0.1,0.997239219106408,1.0,0.0819409,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Sarcosine,53,,scW,control vs CSDS,0.46,0.99750458624595,1.0,4.29104,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Anserine,348,,scW,control vs CSDS,-0.08,0.997550293822088,1.0,3.87375,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+4-Toluic acid,506,C01454,scW,control vs CSDS,0.1,0.997588149183649,1.0,0.424594,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Inosinic Acid,3300,,scW,control vs CSDS,0.54,0.997974879966735,1.0,0.301459,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+UDP,3901,,scW,control vs CSDS,-0.1,0.998405889512443,1.0,0.396978,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+1-Palmitoyl-sn-glycero-3-Phosphocholine,4683,,scW,control vs CSDS,0.0,0.998579608150596,1.0,1.12743,False,False,False,unchanged,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ser-Thr,1475,,scW,control vs CSDS,0.06,0.998831541354321,1.0,0.0936017,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Isocitrate,1271,,scW,control vs CSDS,0.45,0.998832320790002,1.0,0.783021,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Cyclic ADP-ribose,4943,C13050,scW,control vs CSDS,-0.17,0.998867273679472,1.0,0.0431086,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Beta-Glycerophosphate,1256,,scW,control vs CSDS,0.04,0.998956631929726,1.0,0.275594,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Acetyl-CoA,3912,,scW,control vs CSDS,-0.44,0.999101988171122,1.0,0.35508,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+O-Acetyl-L-carnitine,1423,,scW,control vs CSDS,0.2,0.999192494253753,1.0,11.6688,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+1-Methylhistidine,995,C01152,scW,control vs CSDS,-1.22,0.999201418837557,1.0,0.684917,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+5'-Cytidylic acid,3028,,scW,control vs CSDS,-0.18,0.999327050006874,1.0,0.341823,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Glycerol 3-Phosphate,769,,scW,control vs CSDS,1.06,0.999349944822157,1.0,2.28416,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Phthalate,923,,scW,control vs CSDS,0.14,0.999502315793026,1.0,0.42534,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+12(13)-DiHOME,2908,,scW,control vs CSDS,0.23,0.999583602654224,1.0,0.223086,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Dihydronicotinamide-adenine dinucleotide,3112,,scW,control vs CSDS,0.32,0.999586074094353,1.0,0.597552,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Ile-Ala,1448,,scW,control vs CSDS,0.28,0.999630826883193,1.0,0.197155,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Cytidine 5'-diphosphocholine,4617,C00307,scW,control vs CSDS,0.13,0.999641414383451,1.0,0.285719,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Asn-Glu-Ile,4048,,scW,control vs CSDS,0.54,0.999658406822588,1.0,0.160374,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Guanidinoethyl sulfonate,940,C02419,scW,control vs CSDS,-0.13,0.999716332376776,1.0,0.0772934,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Deoxyinosine,2061,,scW,control vs CSDS,-0.42,0.999731812705784,1.0,0.235231,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Dihydrothymine,433,,scW,control vs CSDS,0.69,0.999749822985118,1.0,0.135484,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Leu-Ala,1408,,scW,control vs CSDS,0.45,0.999889468712656,1.0,0.148708,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Leu-Thr,1837,,scW,control vs CSDS,-0.13,0.999914262117697,1.0,0.347127,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Adenosine 5'-diphosphate,4126,,scW,control vs CSDS,0.04,0.999926241740467,1.0,0.178756,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Lumichrome,1918,,scW,control vs CSDS,-0.23,0.999938520220485,1.0,0.0351907,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Methylbenzoate,505,,scW,control vs CSDS,-0.07,0.999949049358085,1.0,0.788904,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Carnosine,1726,,scW,control vs CSDS,0.58,0.999968816462163,1.0,2.84489,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Spermidine,660,C00315,scW,control vs CSDS,-0.1,0.999974549721451,1.0,0.33597,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+Val-Met,2010,,scW,control vs CSDS,-0.24,0.999978688703468,1.0,0.0763875,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+IMP,1026,,scW,control vs CSDS,0.31,0.999994875930242,1.0,2.00277,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Succinate,110,,scW,control vs CSDS,0.37,0.999998577514099,1.0,2.34433,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+D-Histidine methyl ester,763,,scW,control vs CSDS,0.01,0.999998845266366,1.0,0.403154,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+3-Phosphoglycerate,1195,,scW,control vs CSDS,0.49,0.999998881260745,1.0,1.29438,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Urocanate,343,,scW,control vs CSDS,-0.26,0.999998952281268,1.0,4.52225,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Deoxyuridine,1746,,scW,control vs CSDS,-0.3,0.999999252850506,1.0,0.0178803,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Cysteate,971,,scW,control vs CSDS,-0.01,0.999999497570309,1.0,0.137847,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+2-Oxoadipate,820,,scW,control vs CSDS,-0.09,0.999999605134241,1.0,0.624301,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+"1,3,7-Trimethylurate",1522,,scW,control vs CSDS,0.08,0.999999785120191,1.0,0.0847017,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Galactose,1362,,scW,control vs CSDS,-0.1,0.999999844848975,1.0,0.172107,False,False,False,decreased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Nicotinamide Mononucleotide,3151,C00455,scW,control vs CSDS,0.27,0.99999990140846,1.0,0.0733333,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+6-Methylnicotinamide,531,,scW,control vs CSDS,0.01,0.999999959315629,1.0,1.94694,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),name-only
+Guanosine 5'-diphosphate (GDP),4292,C00035,scW,control vs CSDS,0.02,0.999999992402429,1.0,0.290787,False,False,False,increased,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped
+1-Methylnicotinamide,529,C02918,scW,control vs CSDS,0.0,0.999999999119927,1.0,1.99107,False,False,False,unchanged,not determined (no compound-to-pathway map available -- see Sections 18-20),KEGG-mapped

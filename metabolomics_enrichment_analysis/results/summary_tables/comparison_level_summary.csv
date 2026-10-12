@@ -1,0 +1,5 @@
+Comparison,Total tested,Raw p < 0.05 / Sig_pvalue_0.05,FDR < 0.05,Increased,Decreased,KEGG mapped (of tested),Pathway mapped (of Sig_pvalue_0.05)
+scW: control vs CMVS,301,82,25,82,0,54,12
+scW: control vs CSDS,301,65,1,65,0,54,13
+BAT: control vs CMVS,301,10,0,7,3,54,1
+BAT: control vs CSDS,301,10,0,4,6,54,3

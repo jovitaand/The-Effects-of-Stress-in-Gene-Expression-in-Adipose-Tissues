@@ -1,0 +1,5 @@
+Tissue,Comparison,n_tested (workbook adj. p column),n_tested (raw p column),workbook_adj_p<0.05,recomputed_BH_p<0.05 (crosscheck only),correlation (workbook vs recomputed)
+scW,control vs CMVS,301,301,25,52,0.8993
+scW,control vs CSDS,301,301,1,14,0.7899
+BAT,control vs CMVS,301,301,0,0,0.9062
+BAT,control vs CSDS,301,301,0,0,0.9157

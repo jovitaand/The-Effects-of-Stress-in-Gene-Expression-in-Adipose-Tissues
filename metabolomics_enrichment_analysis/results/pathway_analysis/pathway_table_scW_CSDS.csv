@@ -1,0 +1,52 @@
+Metabolic Pathway,Total metabolites in the pathway,Hits,p-value,-log(p),Adjusted p-value (Holm),Adjused p-value (FDR),Pathway Impact
+"Phenylalanine, tyrosine and tryptophan biosynthesis",4,2,0.017487,1.7573,1.0,0.099924,1.0
+Linoleic acid metabolism,5,1,0.25201,0.59857,1.0,0.74671,1.0
+Taurine and hypotaurine metabolism,8,3,0.0078763,2.1037,0.55922,0.053067,0.82857
+Histidine metabolism,16,7,1.0736e-05,4.9691,0.00083744,0.00021671,0.67212
+"Alanine, aspartate and glutamate metabolism",28,9,1.0836e-05,4.9651,0.00083744,0.00021671,0.66908
+Nicotinate and nicotinamide metabolism,15,4,0.00796,2.0991,0.55922,0.053067,0.56711
+Arginine biosynthesis,14,7,3.5351e-06,5.4516,0.00027927,0.0001414,0.50532
+Vitamin B6 metabolism,9,1,0.40748,0.38989,1.0,1.0,0.4902
+Arginine and proline metabolism,36,9,0.00010151,3.9935,0.007715,0.0016242,0.39767
+"Glycine, serine and threonine metabolism",34,8,0.00039991,3.398,0.029593,0.0045704,0.38943
+Phenylalanine metabolism,10,2,0.10524,0.97783,1.0,0.36888,0.35714
+Purine metabolism,71,16,6.8192e-07,6.1663,5.4553e-05,5.4553e-05,0.35365
+Starch and sucrose metabolism,15,1,0.58274,0.23453,1.0,1.0,0.32523
+Glutathione metabolism,28,4,0.068364,1.1652,1.0,0.28167,0.3026
+Pyruvate metabolism,23,3,0.1358,0.86711,1.0,0.43455,0.21967
+Citrate cycle (TCA cycle),20,4,0.022764,1.6427,1.0,0.11097,0.21357
+Pentose phosphate pathway,23,2,0.37542,0.42549,1.0,1.0,0.21303
+One carbon pool by folate,26,7,0.00038793,3.4112,0.029095,0.0045704,0.20568
+Glycerophospholipid metabolism,36,6,0.013347,1.8746,0.90761,0.082137,0.20497
+beta-Alanine metabolism,21,5,0.0050279,2.2986,0.36704,0.050279,0.16045
+Pyrimidine metabolism,39,6,0.019516,1.7096,1.0,0.10408,0.14941
+Cysteine and methionine metabolism,33,4,0.11067,0.95599,1.0,0.36888,0.14719
+Tryptophan metabolism,41,1,0.9102,0.040863,1.0,1.0,0.14305
+Tyrosine metabolism,42,2,0.69708,0.15672,1.0,1.0,0.13972
+Inositol phosphate metabolism,30,1,0.82743,0.082269,1.0,1.0,0.12939
+Lysine degradation,30,5,0.02358,1.6274,1.0,0.11097,0.11451
+Glyoxylate and dicarboxylate metabolism,32,6,0.0074474,2.128,0.53621,0.053067,0.10667
+Glycolysis or Gluconeogenesis,26,2,0.43617,0.36035,1.0,1.0,0.09785
+Galactose metabolism,27,3,0.19166,0.71746,1.0,0.58973,0.06879
+Pantothenate and CoA biosynthesis,20,3,0.09848,1.0067,1.0,0.36888,0.04762
+Primary bile acid biosynthesis,46,2,0.74455,0.12811,1.0,1.0,0.04524
+Glycerolipid metabolism,16,1,0.60648,0.21718,1.0,1.0,0.04361
+"Valine, leucine and isoleucine degradation",40,2,0.67077,0.17343,1.0,1.0,0.03795
+Amino sugar and nucleotide sugar metabolism,42,2,0.69708,0.15672,1.0,1.0,0.01063
+Sphingolipid metabolism,32,2,0.54741,0.26169,1.0,1.0,0.00563
+Butanoate metabolism,15,4,0.00796,2.0991,0.55922,0.053067,0.0
+Nitrogen metabolism,6,2,0.040596,1.3915,1.0,0.18043,0.0
+"Valine, leucine and isoleucine biosynthesis",8,2,0.070418,1.1523,1.0,0.28167,0.0
+"Neomycin, kanamycin and gentamicin biosynthesis",2,1,0.10955,0.96037,1.0,0.36888,0.0
+Sulfur metabolism,8,1,0.3719,0.42957,1.0,1.0,0.0
+Ascorbate and aldarate metabolism,10,1,0.44106,0.3555,1.0,1.0,0.0
+Biotin metabolism,10,1,0.44106,0.3555,1.0,1.0,0.0
+D-Amino acid metabolism,15,1,0.58274,0.23453,1.0,1.0,0.0
+Biosynthesis of unsaturated fatty acids,36,2,0.61276,0.21271,1.0,1.0,0.0
+Ubiquinone and other terpenoid-quinone biosynthesis,19,1,0.66998,0.17394,1.0,1.0,0.0
+Ether lipid metabolism,20,1,0.68881,0.1619,1.0,1.0,0.0
+Propanoate metabolism,22,1,0.72334,0.14066,1.0,1.0,0.0
+Lipoic acid metabolism,28,1,0.80577,0.093789,1.0,1.0,0.0
+Porphyrin metabolism,31,1,0.83735,0.077095,1.0,1.0,0.0
+Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,32,1,0.8467,0.072271,1.0,1.0,0.0
+Fatty acid biosynthesis,47,1,0.93725,0.028146,1.0,1.0,0.0

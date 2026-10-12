@@ -1,0 +1,82 @@
+column,n_rows,NaN_before,NaN_after_coercion,newly_unparseable
+Area: BAT_Aq_CMVS1.raw (F22),301,0,0,0
+Area: BAT_Aq_CMVS2.raw (F23),301,0,0,0
+Area: BAT_Aq_CMVS3.raw (F24),301,0,0,0
+Area: BAT_Aq_CMVS4.raw (F25),301,0,0,0
+Area: BAT_Aq_CMVS5.raw (F26),301,0,0,0
+Area: BAT_Aq_CMVS6.raw (F27),301,0,0,0
+Area: BAT_Aq_control1.raw (F28),301,0,0,0
+Area: BAT_Aq_control2.raw (F29),301,0,0,0
+Area: BAT_Aq_control3.raw (F30),301,0,0,0
+Area: BAT_Aq_control4.raw (F31),301,0,0,0
+Area: BAT_Aq_control5.raw (F32),301,0,0,0
+Area: BAT_Aq_control6.raw (F33),301,0,0,0
+Area: BAT_Aq_CSDS1.raw (F34),301,0,0,0
+Area: BAT_Aq_CSDS2.raw (F35),301,0,0,0
+Area: BAT_Aq_CSDS3.raw (F36),301,0,0,0
+Area: BAT_Aq_CSDS4.raw (F37),301,0,0,0
+Area: BAT_Aq_CSDS5.raw (F38),301,0,0,0
+Area: BAT_Aq_CSDS6.raw (F39),301,0,0,0
+Area: BAT_QC01.raw (F40),301,0,0,0
+Area: BAT_QC02.raw (F41),301,0,0,0
+Area: BAT_QC03.raw (F42),301,0,0,0
+Area: BAT_QC04.raw (F43),301,0,0,0
+Area: Blank_MeOH_water01.raw (F52),301,0,0,0
+Area: Blank_MeOH_water02.raw (F53),301,0,0,0
+Area: Blank_MeOH_water03.raw (F54),301,0,0,0
+Area: scW_Aq_CMVS1.raw (F1),301,0,0,0
+Area: scW_Aq_CMVS2.raw (F2),301,0,0,0
+Area: scW_Aq_CMVS4.raw (F3),301,0,0,0
+Area: scW_Aq_CMVS5.raw (F4),301,0,0,0
+Area: scW_Aq_CMVS6.raw (F5),301,0,0,0
+Area: scW_Aq_CMVS3.raw (F88),301,0,0,0
+Area: scW_Aq_control1.raw (F6),301,0,0,0
+Area: scW_Aq_control2.raw (F7),301,0,0,0
+Area: scW_Aq_control3.raw (F8),301,0,0,0
+Area: scW_Aq_control4.raw (F9),301,0,0,0
+Area: scW_Aq_control5.raw (F10),301,0,0,0
+Area: scW_Aq_control6.raw (F11),301,0,0,0
+Area: scW_Aq_CSDS1.raw (F12),301,0,0,0
+Area: scW_Aq_CSDS2.raw (F13),301,0,0,0
+Area: scW_Aq_CSDS3.raw (F14),301,0,0,0
+Area: scW_Aq_CSDS4.raw (F15),301,0,0,0
+Area: scW_Aq_CSDS5.raw (F16),301,0,0,0
+Area: scW_Aq_CSDS6.raw (F17),301,0,0,0
+Area: scW_BAT_QC01.raw (F44),301,0,0,0
+Area: scW_BAT_QC02.raw (F45),301,0,0,0
+Area: scW_BAT_QC03.raw (F46),301,0,0,0
+Area: scW_BAT_QC04.raw (F47),301,0,0,0
+Area: scW_BAT_QC05.raw (F48),301,0,0,0
+Area: scW_BAT_QC06.raw (F49),301,0,0,0
+Area: scW_BAT_QC07.raw (F50),301,0,0,0
+Area: scW_BAT_QC08.raw (F51),301,0,0,0
+Area: ScW_QC01.raw (F18),301,0,0,0
+Area: ScW_QC02.raw (F19),301,0,0,0
+Area: ScW_QC03.raw (F20),301,0,0,0
+Area: ScW_QC04.raw (F21),301,0,0,0
+Group Area: BAT_Aq_CMVS,301,0,0,0
+Group Area: BAT_Aq_control,301,0,0,0
+Group Area: BAT_Aq_CSDS,301,0,0,0
+Group Area: scW_Aq_CMVS,301,0,0,0
+Group Area: scW_Aq_control,301,0,0,0
+Group Area: scW_Aq_CSDS,301,0,0,0
+Ratio: (BAT_Aq_CMVS) / (BAT_Aq_control),301,0,0,0
+Ratio: (BAT_Aq_CSDS) / (BAT_Aq_control),301,0,0,0
+Ratio: (scW_Aq_CMVS) / (scW_Aq_control),301,0,0,0
+Ratio: (scW_Aq_CSDS) / (scW_Aq_control),301,0,0,0
+Log2 Fold Change: (BAT_Aq_CMVS) / (BAT_Aq_control),301,0,0,0
+Log2 Fold Change: (BAT_Aq_CSDS) / (BAT_Aq_control),301,0,0,0
+Log2 Fold Change: (scW_Aq_CMVS) / (scW_Aq_control),301,0,0,0
+Log2 Fold Change: (scW_Aq_CSDS) / (scW_Aq_control),301,0,0,0
+P-value: (BAT_Aq_CMVS) / (BAT_Aq_control),301,0,0,0
+P-value: (BAT_Aq_CSDS) / (BAT_Aq_control),301,0,0,0
+P-value: (scW_Aq_CMVS) / (scW_Aq_control),301,0,0,0
+P-value: (scW_Aq_CSDS) / (scW_Aq_control),301,0,0,0
+Adj. P-value: (BAT_Aq_CMVS) / (BAT_Aq_control),301,0,0,0
+Adj. P-value: (BAT_Aq_CSDS) / (BAT_Aq_control),301,0,0,0
+Adj. P-value: (scW_Aq_CMVS) / (scW_Aq_control),301,0,0,0
+Adj. P-value: (scW_Aq_CSDS) / (scW_Aq_control),301,0,0,0
+VIP score: (BAT_CMVS) vs (BAT_control),301,0,0,0
+VIP score: (BAT_CSDS) vs (BAT_control),301,0,0,0
+VIP score: (scW_CMVS) vs (scW_control),301,0,0,0
+VIP score: (scW_CSDS) vs (scW_control),301,0,0,0

@@ -1,0 +1,302 @@
+original_name,normalized_name,KEGG_ID,HMDB_ID,PubChem_ID,confidence,has_KEGG,has_HMDB,identifier_source,usable_for_pathway_mapping,annotation_status,is_duplicate_name,is_duplicate_KEGG_ID
+Lactic Acid,lactic acid,D02111,HMDB0000190,,Medium,True,True,KEGG,True,mappable,False,False
+Trimethylamine N-Oxide,trimethylamine n-oxide,,HMDB0000925,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Phosphoric acid,phosphoric acid,,HMDB0001429,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Ethyl acetoacetate,ethyl acetoacetate,,HMDB0031216,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Pyruvic acid,pyruvic acid,C00022,HMDB0000243,,Medium,True,True,KEGG,True,mappable,False,False
+Isobutyrate,isobutyrate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Sarcosine,sarcosine,,HMDB0000271,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Diethanolamine,diethanolamine,,HMDB0004437,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+2-Methylpyrazine,2-methylpyrazine,,HMDB0033112,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+2-Hydroxypyridine,2-hydroxypyridine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Succinate,succinate,,HMDB0000254,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+1-Aminocyclopropanecarboxylate,1-aminocyclopropanecarboxylate,,HMDB0036458,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+3-Hydroxybutyrate,3-hydroxybutyrate,,HMDB0000011,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+3-Methoxypropanoic acid,3-methoxypropanoic acid,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+3-Hydroxyisobutyrate,3-hydroxyisobutyrate,,HMDB0000023,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+L-Serine,l-serine,,HMDB0000187,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Choline,choline,,HMDB0000097,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Glycerate,glycerate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Taurine,taurine,D00047,HMDB0000251,,High,True,True,KEGG,True,mappable,False,False
+5-(Hydroxymethyl)furfural,5-(hydroxymethyl)furfural,,HMDB0034355,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Hypotaurine,hypotaurine,C00519,HMDB0000965,,High,True,True,KEGG,True,mappable,False,False
+Uracil,uracil,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Cytosine,cytosine,,HMDB0000630,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Creatine,creatine,C00300,HMDB0000064,,High,True,True,KEGG,True,mappable,False,False
+Histamine,histamine,,HMDB0000870,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Asparagine,asparagine,C00152,HMDB0000168,,High,True,True,KEGG,True,mappable,False,False
+Aspartate,aspartate,,HMDB0000191,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+L-Proline,l-proline,,HMDB0000162,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Creatinine,creatinine,,HMDB0000562,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Malate,malate,,HMDB0000156,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Ureidopropionate,ureidopropionate,,HMDB0000026,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Ornithine,ornithine,D08302,HMDB0000214,,High,True,True,KEGG,True,mappable,False,False
+N-Acetylglycine,n-acetylglycine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Betaine,betaine,,HMDB0000043,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+2-Methylmalonate,2-methylmalonate,,HMDB0000202,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Cinnamyl Alcohol,cinnamyl alcohol,,HMDB0029697,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Threonine,threonine,C12317,HMDB0000167,,High,True,True,KEGG,True,mappable,False,False
+Guanidinoacetate,guanidinoacetate,,HMDB0000128,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Hypoxanthine,hypoxanthine,,HMDB0000157,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+4-propylphenol,4-propylphenol,,HMDB0032625,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+L-Homoserine,l-homoserine,,HMDB0000719,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Urocanate,urocanate,,HMDB0000301,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Purine,purine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Anserine,anserine,,HMDB0000194,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Niacinamide,niacinamide,,HMDB0001406,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Nicotinamide,nicotinamide,D00036,HMDB0001406,,Medium,True,True,KEGG,True,mappable,False,False
+5-Methylcytosine,5-methylcytosine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+α-Methylhistamine,α-methylhistamine,,HMDB0243669,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Glutamine,glutamine,,HMDB0000641,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+4-Imidazoleacetate,4-imidazoleacetate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Glutamate,glutamate,,HMDB0000148,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+O-Acetyl-L-serine,o-acetyl-l-serine,,HMDB0003011,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+N-Methylaspartate,n-methylaspartate,,HMDB0002393,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+L-Pyroglutamic acid,l-pyroglutamic acid,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+5-Oxoproline,5-oxoproline,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Deoxycarnitine,deoxycarnitine,,HMDB0001161,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+3-Methyl-2-Oxovalerate,3-methyl-2-oxovalerate,,HMDB0000491,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Dihydrothymine,dihydrothymine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+L-Lysine,l-lysine,,HMDB0000182,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+N-Acetyl-L-alanine,n-acetyl-l-alanine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+L-Hydroxyproline,l-hydroxyproline,,HMDB0000725,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Pipecolate,pipecolate,C00408,HMDB0000070,,High,True,True,KEGG,True,mappable,False,False
+L-Pipecolinic acid,l-pipecolinic acid,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+L-Ornithine,l-ornithine,,HMDB0000214,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Adenine,adenine,,HMDB0000034,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+2-Oxindole,2-oxindole,C12312,HMDB0061918,,Medium,True,True,KEGG,True,mappable,False,False
+2-Methylbenzoate,2-methylbenzoate,,HMDB0002340,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+4-Toluic acid,4-toluic acid,C01454,,,Medium,True,False,KEGG,True,mappable,False,False
+Salicylate,salicylate,,HMDB0000840,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+1-Methylnicotinamide,1-methylnicotinamide,C02918,HMDB0000699,,Medium,True,True,KEGG,True,mappable,False,False
+6-Methylnicotinamide,6-methylnicotinamide,,HMDB0013704,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+4-Aminobenzoic acid,4-aminobenzoic acid,D02907,HMDB0001392,,Medium,True,True,KEGG,True,mappable,False,False
+O-Phosphoethanolamine,o-phosphoethanolamine,,HMDB0000224,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Methylimidazoleacetic acid,methylimidazoleacetic acid,C05828,,,Medium,True,False,KEGG,True,mappable,False,False
+2-Aminoadipic acid,2-aminoadipic acid,,HMDB0302754,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+4-Acetamidobutanoate,4-acetamidobutanoate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Stachydrine,stachydrine,,HMDB0004827,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+4-Guanidinobutanoate,4-guanidinobutanoate,,HMDB0003464,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+2-Oxoglutarate,2-oxoglutarate,C00026,,,High,True,False,KEGG,True,mappable,False,False
+Spermidine,spermidine,C00315,,,Medium,True,False,KEGG,True,mappable,False,False
+2-Hydroxyglutarate,2-hydroxyglutarate,,HMDB0059655,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Methionine,methionine,D00019,HMDB0000696,,High,True,True,KEGG,True,mappable,False,False
+2-Hydroxy-4-(Methylthio)Butanoate,2-hydroxy-4-(methylthio)butanoate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+"3,4-Dimethylbenzoic acid","3,4-dimethylbenzoic acid",,HMDB0002237,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Pyridoxal,pyridoxal,,HMDB0001545,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Xanthine,xanthine,,HMDB0000292,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+N-Acetyl-1-aspartylglutamic acid,n-acetyl-1-aspartylglutamic acid,C12270,HMDB0255414,,Medium,True,True,KEGG,True,mappable,False,False
+Xylitol,xylitol,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+3-Sulfinoalanine,3-sulfinoalanine,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Guanine,guanine,C00242,,,High,True,False,KEGG,True,mappable,False,False
+D-Histidine methyl ester,d-histidine methyl ester,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Glutathione Reduced,glutathione reduced,C02471,HMDB0000125,,High,True,True,KEGG,True,mappable,False,False
+"2,6-Dihydroxybenzoic acid","2,6-dihydroxybenzoic acid",,HMDB0013676,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Glycerol 3-Phosphate,glycerol 3-phosphate,,HMDB0000126,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+D-Histidine,d-histidine,,HMDB0250763,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Orotate,orotate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+L-Histidine,l-histidine,,HMDB0000177,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Allantoin,allantoin,,HMDB0000462,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+2-Methylbutyrylglycine,2-methylbutyrylglycine,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+DELTA-VALEROBETAINE,delta-valerobetaine,,HMDB0240732,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+2-Oxoadipate,2-oxoadipate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Ala-Ala,ala-ala,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Myoinositol,myoinositol,,HMDB0000211,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+N-Acetyl-L-cysteine,n-acetyl-l-cysteine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+N-Methylglutamate,n-methylglutamate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+L-Carnitine,l-carnitine,C00318,HMDB0000062,,High,True,True,KEGG,True,mappable,False,False
+4-Hydroxyphenyllactate,4-hydroxyphenyllactate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+"1,5-Anhydrosorbitol","1,5-anhydrosorbitol",,HMDB0002712,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Phenylalanine,phenylalanine,,HMDB0000159,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Phthalate,phthalate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+3-(4-hydroxyphenyl)propanoate,3-(4-hydroxyphenyl)propanoate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Phenyllactate,phenyllactate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Guanidinoethyl sulfonate,guanidinoethyl sulfonate,C02419,,,Medium,True,False,KEGG,True,mappable,False,False
+Phosphoenolpyruvate,phosphoenolpyruvate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Urate,urate,,HMDB0000289,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Homogentisate,homogentisate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Cysteate,cysteate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Dihydroxyacetone Phosphate,dihydroxyacetone phosphate,,HMDB0001473,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Delta-Decalactone,delta-decalactone,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+N-Acetylglutamate,n-acetylglutamate,,HMDB0001138,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+trans-3-Indoleacrylic acid,trans-3-indoleacrylic acid,,HMDB0000734,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+1-Methylhistidine,1-methylhistidine,C01152,,,Medium,True,False,KEGG,True,mappable,False,False
+N-Acetyl-L-leucine,n-acetyl-l-leucine,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+AMP,amp,,HMDB0000045,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+IMP,imp,,HMDB0000175,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+N-Acetylasparagine,n-acetylasparagine,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Suberate,suberate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+L-Arginine,l-arginine,C02385,HMDB0000517,,High,True,True,KEGG,True,mappable,False,False
+N-acetylaspartate,n-acetylaspartate,,HMDB0000812,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+L-Citrulline,l-citrulline,D07706,HMDB0000904,,High,True,True,KEGG,True,mappable,False,False
+Ascorbate,ascorbate,,HMDB0000044,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+"1,2,3-Propanetricarboxylate","1,2,3-propanetricarboxylate",,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+N-Formyl-L-Methionine,n-formyl-l-methionine,,HMDB0001015,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Guanidinosuccinate,guanidinosuccinate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Hippurate,hippurate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Tyrosine,tyrosine,D00022,HMDB0000158,,High,True,True,KEGG,True,mappable,False,False
+GMP,gmp,,HMDB0001397,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Galactitol,galactitol,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+4-Pyridoxate,4-pyridoxate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Phosphorylcholine,phosphorylcholine,,HMDB0001565,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+3-Phosphoglycerate,3-phosphoglycerate,,HMDB0000807,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+2-Phosphoglycerate,2-phosphoglycerate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+4-Hydroxy-3-Methoxyphenylglycol,4-hydroxy-3-methoxyphenylglycol,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Pro-Ala,pro-ala,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Glycyl-L-leucine,glycyl-l-leucine,,HMDB0000759,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+10-Hydroxydecanoate,10-hydroxydecanoate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Beta-Glycerophosphate,beta-glycerophosphate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+N-Acetyl-methionine,n-acetyl-methionine,,HMDB0011745,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Isocitrate,isocitrate,,HMDB0000193,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Citrate,citrate,,HMDB0000094,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Glucuronate,glucuronate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Methyl Galactoside,methyl galactoside,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Phenylacetylglycine,phenylacetylglycine,C05598,,,High,True,False,KEGG,True,mappable,False,False
+Gluconate,gluconate,,HMDB0000625,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Galactonate,galactonate,,HMDB0000565,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+L-Tyrosine methyl ester,l-tyrosine methyl ester,C03404,,,Medium,True,False,KEGG,True,mappable,False,False
+D-(+)-Glucose,d-(+)-glucose,D00053,HMDB0000122,,High,True,True,KEGG,True,mappable,False,False
+Galactose,galactose,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Mannose,mannose,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Leu-Ala,leu-ala,,HMDB0028922,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Indole-3-Pyruvate,indole-3-pyruvate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Pantothenate,pantothenate,,HMDB0000210,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+O-Acetyl-L-carnitine,o-acetyl-l-carnitine,,HMDB0000201,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+L-Glutathione oxidized,l-glutathione oxidized,,HMDB0003337,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Tryptophan,tryptophan,,HMDB0000929,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Val-Ser,val-ser,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Ile-Ala,ile-ala,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Sebacate,sebacate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Cinnamoylglycine-trans,cinnamoylglycine-trans,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+2-Acetamido-2-Deoxy-D-Glucopyranose,2-acetamido-2-deoxy-d-glucopyranose,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+N-Acetylgalactosamine,n-acetylgalactosamine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Acetyl-L-carnitine,acetyl-l-carnitine,,HMDB0000201,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Ser-Thr,ser-thr,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+5-Methoxyindoleacetate,5-methoxyindoleacetate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Fucose,fucose,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+O-Phosphoserine,o-phosphoserine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+N-Acetylphenylalanine,n-acetylphenylalanine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Galactarate,galactarate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+"1,3,7-Trimethylurate","1,3,7-trimethylurate",,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Kynurenine,kynurenine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Phosphocreatine,phosphocreatine,,HMDB0001511,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Ribose 5-phosphate,ribose 5-phosphate,,HMDB0001548,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Indoxyl Sulfate,indoxyl sulfate,,HMDB0000682,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+ADP,adp,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+D-Pantothenic acid,d-pantothenic acid,,HMDB0000210,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Propionylcarnitine,propionylcarnitine,C03017,HMDB0000824,,Medium,True,True,KEGG,True,mappable,False,False
+Thr-Thr,thr-thr,,HMDB0029071,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Gly-Phe,gly-phe,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Carnosine,carnosine,,HMDB0000033,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Ala-His,ala-his,,HMDB0028689,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+His-Ser,his-ser,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Riboflavin Phosphate,riboflavin phosphate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Leucylproline,leucylproline,,HMDB0011175,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Deoxyuridine,deoxyuridine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Myristic Acid,myristic acid,,HMDB0000806,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Ergothioneine,ergothioneine,,HMDB0003045,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+D-Ribulose 5-phosphate,d-ribulose 5-phosphate,C00199,,,Medium,True,False,KEGG,True,mappable,False,False
+Prolylleucine,prolylleucine,,HMDB0253028,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Gly-Arg,gly-arg,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Leu-Thr,leu-thr,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Dihydrobiopterin,dihydrobiopterin,,HMDB0000038,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Fructose 6-Phosphate,fructose 6-phosphate,,HMDB0000124,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Lumichrome,lumichrome,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Cytidine,cytidine,D07769,HMDB0000089,,High,True,True,KEGG,True,mappable,False,False
+Glucose 1-phosphate,glucose 1-phosphate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Uridine,uridine,,HMDB0000296,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Pseudouridine,pseudouridine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Pro-Glu,pro-glu,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Val-Met,val-met,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Deoxyinosine,deoxyinosine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+dGTP,dgtp,C00286,HMDB0001440,,High,True,True,KEGG,True,mappable,False,True
+Phe-Ser,phe-ser,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Coenzyme A,coenzyme a,,HMDB0001423,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Glycerophosphocholine,glycerophosphocholine,,HMDB0000086,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Ile-Gln,ile-gln,,HMDB0028905,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Glucose 6-Phosphate,glucose 6-phosphate,,HMDB0001401,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Galactose 1-phosphate,galactose 1-phosphate,C00103,HMDB0000645,,High,True,True,KEGG,True,mappable,False,False
+N-Acetylglucosamine,n-acetylglucosamine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Hexanoylcarnitine,hexanoylcarnitine,,HMDB0000756,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Phe-Pro,phe-pro,,HMDB0011177,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Deoxyguanosine,deoxyguanosine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Adenosine,adenosine,,HMDB0000050,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Inosine,inosine,,HMDB0000195,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Argininosuccinate,argininosuccinate,C03406,,,High,True,False,KEGG,True,mappable,False,False
+16-Hydroxyhexadecanoic acid,16-hydroxyhexadecanoic acid,C18218,,,Medium,True,False,KEGG,True,mappable,False,False
+6-Phosphogluconate,6-phosphogluconate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Glutaryl-L-carnitine,glutaryl-l-carnitine,,HMDB0013130,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+ADP-Ribose,adp-ribose,,HMDB0001178,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Linoleic acid,linoleic acid,D01928,HMDB0000673,,Medium,True,True,KEGG,True,mappable,False,False
+Oleic acid,oleic acid,D02315,HMDB0000207,,Medium,True,True,KEGG,True,mappable,False,False
+UDP-Glucose,udp-glucose,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Guanosine,guanosine,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Xanthosine,xanthosine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+N-Acetyl-Glucosamine 1-Phosphate,n-acetyl-glucosamine 1-phosphate,,HMDB0001367,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Ophthalmate,ophthalmate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+UDP-Glucuronate,udp-glucuronate,C00167,HMDB0000935,,High,True,True,KEGG,True,mappable,False,False
+Guanosine 5'-diphospho-ß-L-fucose,guanosine 5'-diphospho-ß-l-fucose,C00325,,,Medium,True,False,KEGG,True,mappable,False,False
+Phe-Gln,phe-gln,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Gamma-Glutamylphenylalanine,gamma-glutamylphenylalanine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+5-methyl-5' thioadenosine,5-methyl-5' thioadenosine,,HMDB0001173,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Methylthioadenosine,methylthioadenosine,C00170,,,High,True,False,KEGG,True,mappable,False,False
+GDP-Mannose,gdp-mannose,C00096,,,High,True,False,KEGG,True,mappable,False,False
+UDP-N-Acetylgalactosamine,udp-n-acetylgalactosamine,C00043,HMDB0000304,,High,True,True,KEGG,True,mappable,False,True
+Arachidonic Acid,arachidonic acid,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+"2',3'-cCMP","2',3'-ccmp",,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Gamma-glutamylcysteinylglycine,gamma-glutamylcysteinylglycine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+N-Acetylneuraminate,n-acetylneuraminate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+12(13)-DiHOME,12(13)-dihome,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Decanoylcarnitine,decanoylcarnitine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+UMP,ump,,HMDB0000288,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Trehalose,trehalose,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+5'-Cytidylic acid,5'-cytidylic acid,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+CMP,cmp,,HMDB0000095,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+N-Glycolylneuraminate,n-glycolylneuraminate,,HMDB0000833,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+cAMP,camp,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+"(E)-8,9,10-trihydroxyoctadec-6-enoic acid","(e)-8,9,10-trihydroxyoctadec-6-enoic acid",,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Dihydronicotinamide-adenine dinucleotide,dihydronicotinamide-adenine dinucleotide,,HMDB0001487,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Maltotetraose,maltotetraose,,HMDB0001296,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Beta-NAD,beta-nad,,HMDB0000902,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Nicotinamide Mononucleotide,nicotinamide mononucleotide,C00455,,,High,True,False,KEGG,True,mappable,False,False
+Melibiose,melibiose,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+3'-Dephosphocoenzyme A,3'-dephosphocoenzyme a,C00882,HMDB0001373,,Medium,True,True,KEGG,True,mappable,False,False
+Dephospho-Coenzyme-A,dephospho-coenzyme-a,,HMDB0001373,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+dGMP,dgmp,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Inosinic Acid,inosinic acid,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Adenosine 5'-monophosphate,adenosine 5'-monophosphate,D02769,,,Medium,True,False,KEGG,True,mappable,False,False
+3'-Adenosine monophosphate (3'-AMP),3'-adenosine monophosphate (3'-amp),C01367,,,Medium,True,False,KEGG,True,mappable,False,False
+Phe-Trp,phe-trp,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+NADPH,nadph,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+NADP,nadp,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Riboflavin (B2),riboflavin (b2),,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+S-Adenosylhomocysteine,s-adenosylhomocysteine,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+FAD,fad,,HMDB0001248,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+S-Adenosylmethionine,s-adenosylmethionine,C00019,HMDB0001185,,Medium,True,True,KEGG,True,mappable,False,False
+Palmitoylcarnitine,palmitoylcarnitine,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+UDP,udp,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Acetyl-CoA,acetyl-coa,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+CDP,cdp,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Uridine 5'-diphosphate,uridine 5'-diphosphate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Asn-Glu-Ile,asn-glu-ile,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Aloin,aloin,,HMDB0035219,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Thiamine Pyrophosphate,thiamine pyrophosphate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Phosphoadenosine phosphosulfate,phosphoadenosine phosphosulfate,,HMDB0001134,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+"3',5'-ADP","3',5'-adp",,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Adenosine 5'-diphosphate,adenosine 5'-diphosphate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Guanosine 5'-diphosphate (GDP),guanosine 5'-diphosphate (gdp),C00035,HMDB0001201,,Medium,True,True,KEGG,True,mappable,False,False
+UTP,utp,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Cytidine 5'-diphosphocholine,cytidine 5'-diphosphocholine,C00307,,,Medium,True,False,KEGG,True,mappable,False,False
+Raffinose,raffinose,,HMDB0003213,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Asiatate,asiatate,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+1-Palmitoyl-sn-glycero-3-Phosphocholine,1-palmitoyl-sn-glycero-3-phosphocholine,,HMDB0010382,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+Taurocholic acid,taurocholic acid,,HMDB0000036,,Medium,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+ATP,atp,,HMDB0000538,,High,False,True,HMDB (name-matched from Significant_metabolites sheet),False,"name-only, not pathway-mappable",False,False
+2'-Deoxyguanosine 5'-triphosphate (dGTP),2'-deoxyguanosine 5'-triphosphate (dgtp),C00286,HMDB0001440,,Medium,True,True,KEGG,True,mappable,False,True
+Guanosine Triphosphate,guanosine triphosphate,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+Cyclic ADP-ribose,cyclic adp-ribose,C13050,,,Medium,True,False,KEGG,True,mappable,False,False
+Adenosine diphosphate ribose,adenosine diphosphate ribose,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+UDP-Galactose,udp-galactose,,,,High,False,False,name only,False,"name-only, not pathway-mappable",False,False
+"(3,9-Diacetyloxy-12-hydroxy-2,6,6,13-tetramethyl-8-tetracyclo[11.2.1.01,10.02,7]hexadecanyl) benzoate","(3,9-diacetyloxy-12-hydroxy-2,6,6,13-tetramethyl-8-tetracyclo[11.2.1.01,10.02,7]hexadecanyl) benzoate",,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+ADP-Glucose,adp-glucose,,,,Medium,False,False,name only,False,"name-only, not pathway-mappable",False,False
+UDP-N-acetylglucosamine,udp-n-acetylglucosamine,C00043,,,High,True,False,KEGG,True,mappable,False,True

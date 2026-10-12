@@ -1,0 +1,5 @@
+ratio_column,log2fc_column,n_compared,max_abs_difference,n_ratio_non_positive
+Ratio: (BAT_Aq_CMVS) / (BAT_Aq_control),Log2 Fold Change: (BAT_Aq_CMVS) / (BAT_Aq_control),301,0.005766947782392284,0
+Ratio: (BAT_Aq_CSDS) / (BAT_Aq_control),Log2 Fold Change: (BAT_Aq_CSDS) / (BAT_Aq_control),301,0.005928676331139249,0
+Ratio: (scW_Aq_CMVS) / (scW_Aq_control),Log2 Fold Change: (scW_Aq_CMVS) / (scW_Aq_control),301,0.00535182861255401,0
+Ratio: (scW_Aq_CSDS) / (scW_Aq_control),Log2 Fold Change: (scW_Aq_CSDS) / (scW_Aq_control),301,0.005332933158092412,0
