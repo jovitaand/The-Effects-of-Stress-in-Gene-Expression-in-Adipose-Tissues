@@ -38,8 +38,11 @@ metabolomics_enrichment_analysis/
 │   ├── PCA/         one plot per comparison (stress vs its own control), restricted to that
 │   │                comparison's Sig_pvalue_0.05 metabolites; a 1-metabolite comparison would get a
 │   │                1-D strip plot instead of a degenerate 2-component PCA (not currently triggered)
-│   └── comparisons/ p-value distributions, MA plots (significant-only), cross-comparison
-│                     summary, UpSet-style overlap
+│   ├── comparisons/ p-value distributions, MA plots (significant-only), cross-comparison
+│   │                summary, UpSet-style overlap
+│   └── top_metabolites/ top-25 (or fewer, if a comparison has fewer Sig_pvalue_0.05
+│                     hits) horizontal bar chart per comparison, ranked by raw p-value,
+│                     bar length = log2FC, coloured by direction
 └── README.md
 ```
 
