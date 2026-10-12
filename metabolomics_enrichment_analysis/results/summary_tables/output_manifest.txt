@@ -52,6 +52,14 @@ figures/top_metabolites/top25_scW_CMVS.png
 figures/top_metabolites/top25_scW_CMVS.svg
 figures/top_metabolites/top25_scW_CSDS.png
 figures/top_metabolites/top25_scW_CSDS.svg
+figures/top_metabolites/vip_plot_BAT_CMVS.png
+figures/top_metabolites/vip_plot_BAT_CMVS.svg
+figures/top_metabolites/vip_plot_BAT_CSDS.png
+figures/top_metabolites/vip_plot_BAT_CSDS.svg
+figures/top_metabolites/vip_plot_scW_CMVS.png
+figures/top_metabolites/vip_plot_scW_CMVS.svg
+figures/top_metabolites/vip_plot_scW_CSDS.png
+figures/top_metabolites/vip_plot_scW_CSDS.svg
 figures/volcano/volcano_adjp_BAT_CMVS.png
 figures/volcano/volcano_adjp_BAT_CMVS.svg
 figures/volcano/volcano_adjp_BAT_CSDS.png

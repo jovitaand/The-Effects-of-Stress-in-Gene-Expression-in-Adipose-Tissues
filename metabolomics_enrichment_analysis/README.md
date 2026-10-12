@@ -41,8 +41,10 @@ metabolomics_enrichment_analysis/
 │   ├── comparisons/ p-value distributions, MA plots (significant-only), cross-comparison
 │   │                summary, UpSet-style overlap
 │   └── top_metabolites/ top-25 (or fewer, if a comparison has fewer Sig_pvalue_0.05
-│                     hits) horizontal bar chart per comparison, ranked by raw p-value,
-│                     bar length = log2FC, coloured by direction
+│                     hits) metabolites per comparison, two views: a bar chart ranked
+│                     by raw p-value (bar length = log2FC, coloured by direction), and
+│                     a MetaboAnalyst-style VIP score dot plot (ranked by VIP score,
+│                     with a Control/stress relative-abundance heat-strip)
 └── README.md
 ```
 
